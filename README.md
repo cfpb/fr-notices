@@ -10,7 +10,7 @@ to parse with our [regulations-parser](https://github.com/cfpb/regulations-parse
 
 Use these notices with our [regulations-parser](https://github.com/cfpb/regulations-parser) as part of the [eRegulations](http://cfpb.github.io/eRegulations/) project.
 
-## Parsing instructions
+### Parsing instructions
 
 Assuming that the `fr-notices` directory is inside of the `regulations-parser` directory:
 
