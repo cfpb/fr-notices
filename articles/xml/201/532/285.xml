@@ -1,0 +1,80 @@
+<RULE>
+      <PREAMB>
+        <AGENCY TYPE="N">BUREAU OF CONSUMER FINANCIAL PROTECTION</AGENCY>
+        <CFR>12 CFR Part 1003</CFR>
+        <SUBJECT>Home Mortgage Disclosure (Regulation C) Adjustment to Asset-Size Exemption Threshold</SUBJECT>
+        <AGY>
+          <HD SOURCE="HED">AGENCY:</HD>
+          <P>Bureau of Consumer Financial Protection.</P>
+        </AGY>
+        <ACT>
+          <HD SOURCE="HED">ACTION:</HD>
+          <P>Final rule; official commentary.</P>
+        </ACT>
+        <SUM>
+          <HD SOURCE="HED">SUMMARY:</HD>
+          <P>The Bureau of Consumer Financial Protection (Bureau) is issuing a final rule amending the official commentary that interprets the requirements of the Bureau's Regulation C (Home Mortgage Disclosure) to reflect the asset-size exemption threshold for banks, savings associations, and credit unions based on the annual percentage change in the average of the Consumer Price Index for Urban Wage Earners and Clerical Workers (CPI-W). The exemption threshold will remain at $44 million. This amendment is based on the 0.4 percent decrease in the average of the CPI-W for the 12-month period ending in November 2015. Therefore, banks, savings associations, and credit unions with assets of $44 million or less as of December 31, 2015, are exempt from collecting data in 2016.</P>
+        </SUM>
+        <EFFDATE>
+          <HD SOURCE="HED">DATES:</HD>
+          <P>This final rule is effective January 1, 2016.</P>
+        </EFFDATE>
+        <FURINF>
+          <HD SOURCE="HED">FOR FURTHER INFORMATION CONTACT:</HD>
+          <P>James Wylie or Jaclyn Maier, Counsels, Office of Regulations, at (202) 435-7700.</P>
+        </FURINF>
+      </PREAMB>
+      <SUPLINF>
+        <HD SOURCE="HED">SUPPLEMENTARY INFORMATION:</HD>
+        <HD SOURCE="HD1">I. Background</HD>
+        <P>The Home Mortgage Disclosure Act of 1975 (HMDA) (12 U.S.C. 2801-2810) requires most mortgage lenders located in metropolitan areas to collect data about their housing-related lending activity. Annually, lenders must report that data to the appropriate Federal agencies and make the data available to the public. The Bureau's Regulation C (12 CFR part 1003) implements HMDA.</P>
+
+        <P>Prior to 1997, HMDA exempted certain depository institutions as defined in HMDA (<E T="03">i.e.,</E> banks, savings associations, and credit unions) with assets totaling $10 million or less as of the preceding year-end. In 1996, HMDA was amended to expand the asset-size exemption for these depository institutions. 12 U.S.C. 2808(b). The amendment increased the dollar amount of the asset-size exemption threshold by requiring a one-time adjustment of the $10 million figure based on the percentage by which the CPI-W for 1996 exceeded the CPI-W for 1975, and it provided for annual adjustments thereafter based on the annual percentage increase in the CPI-W, rounded to the nearest multiple of $1 million dollars.</P>
+        <P>The definition of “financial institution” in Regulation C provides that the Bureau will adjust the asset threshold based on the year-to-year change in the average of the CPI-W, not seasonally adjusted, for each 12-month period ending in November, rounded to the nearest million. 12 CFR 1003.2. For 2015, the threshold was $44 million. During the 12-month period ending in November 2015, the average of the CPI-W decreased by 0.4 percent. This results in a change of zero when rounded to the nearest million. Thus, the exemption threshold will remain at $44 million. Therefore, banks, savings associations, and credit unions with assets of $44 million or less as of December 31, 2015, are exempt from collecting data in 2016. An institution's exemption from collecting data in 2016 does not affect its responsibility to report data it was required to collect in 2015.</P>
+        <HD SOURCE="HD1">II. Procedural Requirements</HD>
+        <HD SOURCE="HD2">A. Administrative Procedure Act</HD>
+        <P>Under the Administrative Procedure Act (APA), notice and opportunity for public comment are not required if the Bureau finds that notice and public comment are impracticable, unnecessary, or contrary to the public interest. 5 U.S.C. 553(b)(B). Pursuant to this final rule, comment 1003.2 (Financial institution)-2 in Regulation C, supplement I is amended to update the exemption threshold. The amendment in this final rule is technical and non-discretionary, and it merely applies the formula established by Regulation C for determining any adjustments to the exemption threshold. For these reasons, the Bureau has determined that publishing a notice of proposed rulemaking and providing opportunity for public comment are unnecessary. Therefore, the amendment is adopted in final form.</P>
+
+        <P>Section 553(d) of the APA generally requires publication of a final rule not less than 30 days before its effective date, except for (1) a substantive rule which grants or recognizes an exemption or relieves a restriction; (2) interpretive rules and statements of policy; or (3) as otherwise provided by the agency for good cause found and published with the rule. 5 U.S.C. 553(d). At a minimum, the Bureau believes the amendments fall under the third exception to section 553(d). The Bureau finds that there is good cause to make the amendments effective on January 1, 2016. The amendment in this final rule is technical and non-discretionary, and it applies the method previously established in the agency's regulations for determining adjustments to the threshold.<PRTPAGE P="79674"/>
+        </P>
+        <HD SOURCE="HD2">B. Regulatory Flexibility Act</HD>
+        <P>Because no notice of proposed rulemaking is required, the Regulatory Flexibility Act does not require an initial or final regulatory flexibility analysis. 5 U.S.C. 603(a), 604(a). </P>
+        <HD SOURCE="HD2">C. Paperwork Reduction Act</HD>
+        <P>In accordance with the Paperwork Reduction Act of 1995 (44 U.S.C. 3506; 5 CFR 1320), the agency reviewed this final rule. No collections of information pursuant to the Paperwork Reduction Act are contained in the final rule.</P>
+        <LSTSUB>
+          <HD SOURCE="HED">List of Subjects in 12 CFR Part 1003</HD>
+          <P>Banking, Banks, Credit unions, Mortgages, National banks, Reporting and recordkeeping requirements, Savings associations. </P>
+        </LSTSUB>
+        <HD SOURCE="HD1">Authority and Issuance</HD>
+        <P>For the reasons set forth in the preamble, the Bureau amends Regulation C, 12 CFR part 1003, as set forth below:</P>
+        <REGTEXT PART="1003" TITLE="12">
+          <PART>
+            <HD SOURCE="HED">PART 1003—HOME MORTGAGE DISCLOSURE (REGULATION C)</HD>
+          </PART>
+          <AMDPAR>1. The authority citation for part 1003 continues to read as follows:</AMDPAR>
+          <AUTH>
+            <HD SOURCE="HED">Authority: </HD>
+            <P>12 U.S.C. 2803, 2804, 2805, 5512, 5581.</P>
+          </AUTH>
+        </REGTEXT>
+        
+        <REGTEXT PART="1003" TITLE="12">
+          <AMDPAR>2. In Supplement I to Part 1003, under <E T="03">Section 1003.2—Definitions,</E> under the definition “<E T="03">Financial institution”,</E> paragraph 2 is revised to read as follows:</AMDPAR>
+          <HD SOURCE="HD1">Supplement I to Part 1003—Staff Commentary</HD>
+          <STARS/>
+          <HD SOURCE="HD2">Section 1003.2—Definitions</HD>
+          <STARS/>
+          <HD SOURCE="HD2">Financial Institution</HD>
+          <STARS/>
+          <P>2. <E T="03">Adjustment of exemption threshold for banks, savings associations, and credit unions.</E> For data collection in 2016, the asset-size exemption threshold is $44 million. Banks, savings associations, and credit unions with assets at or below $44 million as of December 31, 2015, are exempt from collecting data for 2016.</P>
+          <STARS/>
+        </REGTEXT>
+        <SIG>
+          <DATED>Dated: December 16, 2015.</DATED>
+          <NAME>Richard Cordray,</NAME>
+          <TITLE>Director, Bureau of Consumer Financial Protection.</TITLE>
+        </SIG>
+      </SUPLINF>
+      <FRDOC>[FR Doc. 2015-32285 Filed 12-22-15; 8:45 am]</FRDOC>
+      <BILCOD>BILLING CODE 4810-AM-P</BILCOD>
+    </RULE>
