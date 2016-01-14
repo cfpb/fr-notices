@@ -6849,15 +6849,20 @@
               <P>&#x201C;<E T="03">Purpose.&#x201D;</E>&#x2014;This section describes the general purpose of the GFE as well as additional information available to the applicant.</P>
               <P>&#x201C;<E T="03">Shopping for your loan.&#x201D;</E>&#x2014;This section requires no loan originator action.</P>
               <P>&#x201C;<E T="03">Important dates.&#x201D;</E>&#x2014;This section briefly states important deadlines after which the loan terms that are the subject of the GFE may not be available to the applicant. In Line 1, the loan originator must state the date and, if necessary, time until which the interest rate for the GFE will be available. In Line 2, the loan originator must state the date until which the estimate of all other settlement charges for the GFE will be available. This date must be at least 10 business days from the date of the GFE. In Line 3, the loan originator must state how many calendar days within which the applicant must go to settlement once the interest rate is locked. In Line 4, the loan originator must state how many calendar days prior to settlement the interest rate would have to be locked, if applicable.</P>
-	      <P>&#x201C;<E T="03">Summary of your loan</E>.&#x201D;&#x2014;In this section, for all loans the loan originator must fill in, where indicated:</P>
-              <P>(i) The initial loan amount;</P>
-              <P>(ii) The loan term; and</P>
-              <P>(iii) The initial interest rate.</P>
-              <P>For reverse mortgage transactions:</P>
-              <P>(i) The initial loan amount disclosed on the GFE is the amount of the initial principal limit of the loan;</P>
-              <P>(ii) The loan term is disclosed as &#x201C;N/A&#x201D; when the loan term is conditioned upon the occurrence of a specified event, such as the death of the borrower or the borrower no longer occupying the property for a certain period of time; and</P>
-              <P>(iii) The initial interest rate is the interest rate indicated on the legal obligation.</P>
 
+	      <P>&#x201C;<E T="03">Summary of your loan</E>.&#x201D;&#x2014;In this section, for all loans the loan originator must fill in, where indicated:</P>
+	      <SEQUENCE>
+		<P>(i) The initial loan amount;</P>
+		<P>(ii) The loan term; and</P>
+		<P>(iii) The initial interest rate.</P>
+	      </SEQUENCE>
+              <P><E T="03">For reverse mortgage transactions:</E></P>
+	      <SEQUENCE>
+		<P>(i) The initial loan amount disclosed on the GFE is the amount of the initial principal limit of the loan;</P>
+		<P>(ii) The loan term is disclosed as &#x201C;N/A&#x201D; when the loan term is conditioned upon the occurrence of a specified event, such as the death of the borrower or the borrower no longer occupying the property for a certain period of time; and</P>
+		<P>(iii) The initial interest rate is the interest rate indicated on the legal obligation.</P>
+	      </SEQUENCE>
+	      
               <P>The loan originator must fill in the initial monthly amount owed for principal, interest, and any mortgage insurance. The amount shown must be the greater of: (1) The required monthly payment for principal and interest for the first regularly scheduled payment, plus any monthly mortgage<PRTPAGE P="80106"/>insurance payment; or (2) the accrued interest for the first regularly scheduled payment, plus any monthly mortgage insurance payment. For reverse mortgage transactions where there are no regular payment periods, the loan originator must disclose &#x201C;Not Applicable&#x201D; or &#x201C;N/A&#x201D; for the initial monthly amount owed for principal, interest, and any mortgage insurance.</P>
               <P>The loan originator must indicate whether the interest rate can rise, and, if it can, must insert the maximum rate to which it can rise over the life of the loan. The loan originator must also indicate the period of time after which the interest rate can first change.</P>
               <P>The loan originator must indicate whether the loan balance can rise even if the borrower makes payments on time, for example in the case of a loan with negative amortization. If it can, the loan originator must insert the maximum amount to which the loan balance can rise over the life of the loan. For Federal, State, local, or tribal housing programs that provide payment assistance, any repayment of such program assistance should be excluded from consideration in completing this item. If the loan balance will increase only because escrow items are being paid through the loan balance, the loan originator is not required to check the box indicating that the loan balance can rise. For reverse mortgage transactions, the loan originator must indicate that the loan balance can rise even if the borrower makes payments on time and the maximum amount to which the loan balance can rise must be disclosed as &#x201C;Unknown.&#x201D;</P>
