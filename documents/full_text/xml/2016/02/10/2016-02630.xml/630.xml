@@ -1,0 +1,66 @@
+<RULE>
+      <PREAMB>
+        <PRTPAGE P="7032"/>
+        <AGENCY TYPE="N">BUREAU OF CONSUMER FINANCIAL PROTECTION</AGENCY>
+        <CFR>12 CFR Parts 1024 and 1026</CFR>
+        <RIN>RIN 3170-AA19</RIN>
+        <SUBJECT>2013 Integrated Mortgage Disclosures Rule Under the Real Estate Settlement Procedures Act (Regulation X) and the Truth in Lending Act (Regulation Z); Correction of Supplementary Information</SUBJECT>
+        <AGY>
+          <HD SOURCE="HED">AGENCY:</HD>
+          <P>Bureau of Consumer Financial Protection.</P>
+        </AGY>
+        <ACT>
+          <HD SOURCE="HED">ACTION:</HD>
+          <P>Correction of supplementary information.</P>
+        </ACT>
+        <SUM>
+          <HD SOURCE="HED">SUMMARY:</HD>
+          <P>In 2013, the Consumer Financial Protection Bureau (Bureau) issued the “Integrated Mortgage Disclosures Under the Real Estate Settlement Procedures Act (Regulation X) and the Truth in Lending Act (Regulation Z)” final rule (TILA-RESPA Final Rule).<SU>1</SU>
+            <FTREF/> The Supplementary Information to the TILA-RESPA Final Rule contained a typographical error, which this document corrects, regarding the application of tolerances to property insurance premiums, property taxes, homeowner's association dues, condominium fees, and cooperative fees.</P>
+          <FTNT>
+            <P>
+              <SU>1</SU> 78 FR 79730 (Dec. 31, 2013).</P>
+          </FTNT>
+        </SUM>
+        <DATES>
+          <HD SOURCE="HED">DATES:</HD>
+          <P>This correction is effective on February 10, 2016.</P>
+        </DATES>
+        <FURINF>
+          <HD SOURCE="HED">FOR FURTHER INFORMATION CONTACT:</HD>
+          <P>Pedro De Oliveira or David Friend, Counsels, Office of Regulations, Consumer Financial Protection Bureau, 1700 G Street NW., Washington, DC 20552, at (202) 435-7700.</P>
+        </FURINF>
+      </PREAMB>
+      <SUPLINF>
+        <HD SOURCE="HED">SUPPLEMENTARY INFORMATION:</HD>
+        <P> In 2013, the Bureau issued the “Integrated Mortgage Disclosures Under the Real Estate Settlement Procedures Act (Regulation X) and the Truth in Lending Act (Regulation Z)” final rule (TILA-RESPA Final Rule), combining certain disclosures that consumers receive in connection with applying for and closing on a mortgage loan.<SU>2</SU>
+
+          <FTREF/> The Supplementary Information to the TILA-RESPA Final Rule (2013 Supp. Information) contained a typographical error, which this notice corrects. Specifically, on page 79829 of Volume 78 of the <E T="04">Federal Register</E>, in the first column, in the sentence containing “property insurance premiums, property taxes, homeowner's association dues, condominium fees, and cooperative fees,” the phrase “are subject to tolerances” should read “are not subject to tolerances.”</P>
+        <FTNT>
+          <P>
+            <SU>2</SU> 78 FR 79730 (Dec. 31, 2013). The Bureau published subsequent amendments to the TILA-RESPA Final Rule at 80 FR 8767 (Feb. 19, 2015) and 80 FR 43911 (July 24, 2015).</P>
+        </FTNT>
+        <P>Section 1026.19(e)(3)(iii) is titled “<E T="03">Variations permitted for certain charges</E>” and lists certain charges—including property insurance premiums, “[a]mounts placed into an escrow, impound, reserve, or similar account,” and “[c]harges paid for third-party services not required by the creditor”—in the category of charges not subject to tolerance.<SU>3</SU>
+
+          <FTREF/> Property taxes, homeowner's association dues, condominium fees, and cooperative fees are all “[c]harges paid for third-party services not required by the creditor.” Additionally, the 2013 Supp. Information sentence being corrected here is inconsistent with the sentence that precedes it, because the preceding sentence states that “<E T="03">property insurance premiums</E> are included in the category of settlement charges <E T="03">not subject</E> to a tolerance, whether or not the insurance provider is a lender affiliate.” <SU>4</SU>
+          <FTREF/> Consequently, on page 79829 of the 2013 Supp. Information, regarding “property insurance premiums, property taxes, homeowner's association dues, condominium fees, and cooperative fees,” the phrase “are subject to tolerances” should read “are not subject to tolerances.”</P>
+        <FTNT>
+          <P>
+
+            <SU>3</SU> Such charge is in good faith so long as such charge is “consistent with the best information reasonably available to the creditor at the time it is disclosed, <E T="03">regardless of whether the amount paid by the consumer exceeds the amount disclosed</E>” on the Loan Estimate. 12 CFR 1026.19(e)(3)(iii) (emphasis added).</P>
+        </FTNT>
+        <FTNT>
+          <P>
+            <SU>4</SU> 78 FR 79730, 79829 (Dec. 31, 2013) (emphasis added).</P>
+        </FTNT>
+        <P>Accordingly, the Bureau makes the following correction to FR Doc. 2013-28210 published on December 31, 2013 (78 FR 79730):</P>
+        <P>1. On page 79829, in the first column, in the 48th, 49th, and 50th lines, revise “are subject to tolerances whether or not they are placed into an escrow, impound, reserve, or similar account” to read “are not subject to tolerances whether or not they are placed into an escrow, impound, reserve, or similar account”.</P>
+        <SIG>
+          <DATED>Dated: February 2, 2016.</DATED>
+          <NAME>Richard Cordray,</NAME>
+          <TITLE>Director, Bureau of Consumer Financial Protection.</TITLE>
+        </SIG>
+      </SUPLINF>
+      <FRDOC>[FR Doc. 2016-02630 Filed 2-9-16; 8:45 am]</FRDOC>
+      <BILCOD> BILLING CODE 4810-AM-P</BILCOD>
+    </RULE>
