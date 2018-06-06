@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="cfr.xsl"?>
+<CFRGRANULE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="CFRMergedXML.xsd">
+  <FDSYS>
+    <CFRTITLE>12</CFRTITLE>
+    <CFRTITLETEXT>Banks and Banking</CFRTITLETEXT>
+    <VOL>8</VOL>
+    <DATE>2012-01-01</DATE>
+    <ORIGINALDATE>2012-01-01</ORIGINALDATE>
+    <COVERONLY>false</COVERONLY>
+    <TITLE>FAIR DEBT COLLECTION PRACTICES ACT (REGULATION F)</TITLE>
+    <GRANULENUM>1006</GRANULENUM>
+    <HEADING>PART 1006</HEADING>
+    <ANCESTORS>
+      <PARENT HEADING="Title 12" SEQ="1">Banks and Banking</PARENT>
+      <PARENT HEADING="CHAPTER X" SEQ="0">BUREAU OF CONSUMER FINANCIAL PROTECTION</PARENT>
+    </ANCESTORS>
+  </FDSYS>
+  <PART>
+    <EAR>Pt. 1006</EAR>
+    <HD SOURCE="HED">PART 1006—FAIR DEBT COLLECTION PRACTICES ACT (REGULATION F)</HD>
+    <CONTENTS>
+      <SUBPART>
+        <HD SOURCE="HED">Subpart A—Procedures for State Application for Exemption From the Provisions of the Act</HD>
+        <SECHD>Sec.</SECHD>
+        <SECTNO>1006.1</SECTNO>
+        <SUBJECT>Purpose and definitions.</SUBJECT>
+        <SECTNO>1006.2</SECTNO>
+        <SUBJECT>Application.</SUBJECT>
+        <SECTNO>1006.3</SECTNO>
+        <SUBJECT>Supporting documents.</SUBJECT>
+        <SECTNO>1006.4</SECTNO>
+        <SUBJECT>Criteria for determination.</SUBJECT>
+        <SECTNO>1006.5</SECTNO>
+        <SUBJECT>Public notice of filing.</SUBJECT>
+        <SECTNO>1006.6</SECTNO>
+        <SUBJECT>Exemption from requirements.</SUBJECT>
+        <SECTNO>1006.7</SECTNO>
+        <SUBJECT>Adverse determination.</SUBJECT>
+        <SECTNO>1006.8</SECTNO>
+        <SUBJECT>Revocation of exemption.</SUBJECT>
+      </SUBPART>
+      <SUBPART>
+        <RESERVED>Subpart B [Reserved]</RESERVED>
+      </SUBPART>
+    </CONTENTS>
+    <AUTH>
+      <HD SOURCE="HED">Authority:</HD>
+      <P>12 U.S.C. 5512, 5581; 15 U.S.C. 1692o.</P>
+    </AUTH>
+    <SOURCE>
+      <HD SOURCE="HED">Source:</HD>
+      <P>76 FR 78124, Dec. 16, 2011, unless otherwise noted.</P>
+    </SOURCE>
+    <SUBPART>
+      <HD SOURCE="HED">Subpart A—Procedures for State Application for Exemption From the Provisions of the Act</HD>
+      <SECTION>
+        <SECTNO>§ 1006.1</SECTNO>
+        <SUBJECT>Purpose and definitions.</SUBJECT>
+        <P>(a) <E T="03">Purpose.</E> This part, known as Regulation F, is issued by the Bureau of Consumer Financial Protection (Bureau). This subpart establishes procedures and criteria whereby states may apply to the Bureau for exemption of a class of debt collection practices within the applying state from the provisions of the Fair Debt Collection Practices Act (the Act) as provided in section 817 of the Act, 15 U.S.C. 1692o.</P>
+        <P>(b) <E T="03">Definitions.</E> For purposes of this subpart:</P>
+        <P>
+          <E T="03">Class of debt collection practices</E> includes one or more such classes of debt collection practices.</P>
+        <P>
+          <E T="03">State law</E> includes any regulations that implement state law and formal interpretations thereof by a court of competent jurisdiction or duly authorized agency of that state.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1006.2</SECTNO>
+        <SUBJECT>Application.</SUBJECT>
+        <P>Any state may apply to the Bureau pursuant to the terms of this part for a determination that, under the laws of that state, any class of debt collection practices within that state is subject to requirements that are substantially similar to, or provide greater protection for consumers than, those imposed under sections 803 through 812 of the Act, and that there is adequate provision for state enforcement of such requirements. The application shall be in writing, addressed to the Bureau, signed by the Governor, Attorney General or state official having primary enforcement or responsibility under the state law which is applicable to the class of debt collection practices, and shall be supported by the documents specified in this subpart.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1006.3</SECTNO>
+        <SUBJECT>Supporting documents.</SUBJECT>
+        <P>The application shall be accompanied by the following, which may be submitted in paper or electronic form:</P>
+        <P>(a) A copy of the full text of the state law that is claimed to contain requirements substantially similar to those imposed under sections 803 through 812 of the Act, or to provide greater protection to consumers than sections 803 through 812 of the Act, regarding the class of debt collection practices within that state.</P>
+        <P>(b) A comparison of each provision of sections 803 through 812 of the Act with the corresponding provision of the state law, together with reasons supporting the claim that the corresponding provisions of the state law are substantially similar to or provide greater protection to consumers than provisions of sections 803 through 812 of the Act and an explanation as to why any differences between the state and Federal law are not inconsistent with the provisions of sections 803 through 812 of the Act and do not result in a diminution in the protection otherwise afforded consumers; and a statement that no other state laws (including administrative or judicial interpretations) are related to, or would have an effect upon, the state law that is being considered by the Bureau in making its determination.</P>
+        <P>(c) A copy of the full text of the state law that provides for enforcement of the state law referred to in paragraph (a) of this section.</P>
+
+        <P>(d) A comparison of the provisions of the state law that provides for enforcement with the provisions of section 814 of the Act, together with reasons supporting the claim that such state law <PRTPAGE P="233"/>provides for administrative enforcement of the state law referred to in paragraph (a) of this section that is substantially similar to, or more extensive than, the enforcement provided under section 814 of the Act.</P>
+        <P>(e) A statement identifying the office designated or to be designated to administer the state law referred to in paragraph (a) of this section, together with complete information regarding the fiscal arrangements for administrative enforcement (including the amount of funds available or to be provided), the number and qualifications of personnel engaged or to be engaged in enforcement, and a description of the procedures under which such state law is to be administratively enforced. The statement should also include reasons to support the claim that there is adequate provision for enforcement of such state law.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1006.4</SECTNO>
+        <SUBJECT>Criteria for determination.</SUBJECT>
+        <P>The Bureau will consider the criteria set forth below, and any other relevant information, in determining whether the law of a state is substantially similar to, or provides greater protection to consumers than, the provisions of sections 803 through 812 of the Act regarding the class of debt collection practices within that state, and whether there is adequate provision for state enforcement of such law. In making that determination, the Bureau primarily will consider each provision of the state law in comparison with each corresponding provision in sections 803 through 812 of the Act, and not the state law as a whole in comparison with the Act as a whole.</P>
+        <P>(a)(1) In order for provisions of state law to be substantially similar to, or provide greater protection to consumers than the provisions of sections 803 through 812 of the Act, the provisions of state law at least shall provide that:</P>
+        <P>(i) Definitions and rules of construction, as applicable, import the same meaning and have the same application as those prescribed by sections 803 through 812 of the Act.</P>
+        <P>(ii) Debt collectors provide all of the applicable notifications required by the provisions of sections 803 through 812 of the Act, with the content and in the terminology, form, and time periods prescribed by this part pursuant to sections 803 through 812; however, required references to state law may be substituted for the references to Federal law required in this part. Notification requirements under state law in additional circumstances or with additional detail that do not frustrate any of the purposes of the Act may be determined by the Bureau to be consistent with sections 803 through 812 of the Act;</P>
+        <P>(iii) Debt collectors take all affirmative actions and abide by obligations substantially similar to, or more extensive than, those prescribed by sections 803 through 812 of the Act under substantially similar or more stringent conditions and within the same or more stringent time periods as are prescribed in sections 803 through 812 of the Act;</P>
+        <P>(iv) Debt collectors abide by the same or more stringent prohibitions as are prescribed by sections 803 through 812 of the Act;</P>
+        <P>(v) Obligations or responsibilities imposed on consumers are no more costly, lengthy, or burdensome relative to consumers exercising any of the rights or gaining the benefits of the protections provided in the state law than corresponding obligations or responsibilities imposed on consumers in sections 803 through 812 of the Act.</P>
+        <P>(vi) Consumers' rights and protections are substantially similar to, or more favorable than, those provided by sections 803 through 812 of the Act under conditions or within time periods that are substantially similar to, or more favorable to consumers than, those prescribed by sections 803 through 812 of the Act.</P>
+        <P>(2) Paragraph (a)(1) of this section is not to be construed as indicating that the Bureau would consider adversely any additional requirements of state law that are not inconsistent with the purpose of the Act or the requirements imposed under sections 803 through 812 of the Act.</P>
+
+        <P>(b) In determining whether provisions for enforcement of the state law referred to in § 1006.3(a) of this part are adequate, consideration will be given to the extent to which, under state law, provision is made for administrative <PRTPAGE P="234"/>enforcement, including necessary facilities, personnel, and funding.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1006.5</SECTNO>
+        <SUBJECT>Public notice of filing.</SUBJECT>
+
+        <P>In connection with any application that has been filed in accordance with the requirements of §§ 1006.2 and 1006.3 of this part and following initial review of the application, a notice of such filing shall be published by the Bureau in the <E T="04">Federal Register,</E> and a copy of such application shall be made available for examination by interested persons during business hours at the Bureau of Consumer Financial Protection, 1700 G Street NW., Washington, DC 20006. A period of time shall be allowed from the date of such publication for interested parties to submit written comments to the Bureau regarding that application.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1006.6</SECTNO>
+        <SUBJECT>Exemption from requirements.</SUBJECT>
+        <P>If the Bureau determines on the basis of the information before it that, under the law of a state, a class of debt collection practices is subject to requirements substantially similar to, or that provide greater protection to consumers than, those imposed under sections 803 through 812 and section 814 of the Act, and that there is adequate provision for state enforcement, the Bureau will exempt the class of debt collection practices in that state from the requirements of sections 803 through 812 and section 814 of the Act in the following manner and subject to the following conditions:</P>
+        <P>(a) Notice of the exemption shall be published in the <E T="04">Federal Register,</E> and the Bureau shall furnish a copy of such notice to the state official who made application for such exemption, to each Federal authority responsible for administrative enforcement of the requirements of sections 803 through 812 of the Act, and to the Attorney General of the United States. Any exemption granted shall be effective 90 days after the date of publication of such notice in the <E T="04">Federal Register</E>.</P>
+        <P>(b) The appropriate official of any state that receives an exemption shall inform the Bureau in writing within 30 days of any change in the state laws referred to in § 1006.3(a) and (c) of this part. The report of any such change shall contain copies of the full text of that change, together with statements setting forth the information and opinions regarding that change that are specified in § 1006.3(b) and (d). The appropriate official of any state that has received such an exemption also shall file with the Bureau from time to time such reports as the Bureau may require.</P>
+        <P>(c) The Bureau shall inform the appropriate official of any state that receives such an exemption of any subsequent amendments of the Act or this part that might necessitate the amendment of state law for the exemption to continue.</P>
+        <P>(d) No exemption shall extend to the civil liability provisions of section 813 of the Act. After an exemption is granted, the requirements of the applicable state law shall constitute the requirements of sections 803 through 812 of the Act, except to the extent such state law imposes requirements not imposed by the Act or this part.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1006.7</SECTNO>
+        <SUBJECT>Adverse determination.</SUBJECT>
+        <P>(a) If, after publication of a notice in the <E T="04">Federal Register</E> as provided under § 1006.5 of this part, the Bureau finds on the basis of the information before it that it cannot make a favorable determination in connection with the application, the Bureau shall notify the appropriate state official of the facts upon which such findings are based and shall afford that state authority a reasonable opportunity to demonstrate or achieve compliance.</P>
+
+        <P>(b) If, after having afforded the state authority such opportunity to demonstrate or achieve compliance, the Bureau finds on the basis of the information before it that it still cannot make a favorable determination in connection with the application, the Bureau shall publish in the <E T="04">Federal Register</E> a notice of its determination regarding the application and shall furnish a copy of such notice to the state official who made application for such exemption.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1006.8</SECTNO>
+        <SUBJECT>Revocation of exemption.</SUBJECT>
+
+        <P>(a) The Bureau reserves the right to revoke any exemption granted under the provisions of this part, if at any time it determines that the state law does not, in fact, impose requirements <PRTPAGE P="235"/>that are substantially similar to, or that provide greater protection to applicants than, those imposed under sections 803 through 812 of the Act or that there is not, in fact, adequate provision for state enforcement.</P>
+        <P>(b) Before revoking any such exemption, the Bureau shall notify the appropriate state official of the facts or conduct that, in the Bureau's opinion, warrant such revocation, and shall afford that state such opportunity as the Bureau deems appropriate in the circumstances to demonstrate or achieve compliance.</P>
+
+        <P>(c) If, after having been afforded the opportunity to demonstrate or achieve compliance, the Bureau determines that the state has not done so, notice of the Bureau's intention to revoke such exemption shall be published in the <E T="04">Federal Register.</E> A period of time shall be allowed from the date of such publication for interested persons to submit written comments to the Bureau regarding the intention to revoke.</P>
+
+        <P>(d) If such exemption is revoked, notice of such revocation shall be published by the Bureau in the <E T="04">Federal Register,</E> and a copy of such notice shall be furnished to the appropriate state official, to the Federal authorities responsible for enforcement of the requirements of the Act, and to the Attorney General of the United States. The revocation shall become effective, and the class of debt collection practices affected within that state shall become subject to the requirements of sections 803 through 812 of the Act, 90 days after the date of publication of the notice in the <E T="04">Federal Register</E>.</P>
+      </SECTION>
+    </SUBPART>
+    <SUBPART>
+      <RESERVED>Subpart B [Reserved]</RESERVED>
+    </SUBPART>
+  </PART>
+</CFRGRANULE>
