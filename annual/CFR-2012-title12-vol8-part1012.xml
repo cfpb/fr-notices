@@ -1,0 +1,208 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="cfr.xsl"?>
+<CFRGRANULE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="CFRMergedXML.xsd">
+  <FDSYS>
+    <CFRTITLE>12</CFRTITLE>
+    <CFRTITLETEXT>Banks and Banking</CFRTITLETEXT>
+    <VOL>8</VOL>
+    <DATE>2012-01-01</DATE>
+    <ORIGINALDATE>2012-01-01</ORIGINALDATE>
+    <COVERONLY>false</COVERONLY>
+    <TITLE>SPECIAL RULES OF PRACTICE (REGULATION J)</TITLE>
+    <GRANULENUM>1012</GRANULENUM>
+    <HEADING>PART 1012</HEADING>
+    <ANCESTORS>
+      <PARENT HEADING="Title 12" SEQ="1">Banks and Banking</PARENT>
+      <PARENT HEADING="CHAPTER X" SEQ="0">BUREAU OF CONSUMER FINANCIAL PROTECTION</PARENT>
+    </ANCESTORS>
+  </FDSYS>
+  <PART>
+    <EAR>Pt. 1012</EAR>
+    <HD SOURCE="HED">PART 1012—SPECIAL RULES OF PRACTICE (REGULATION J)</HD>
+    <CONTENTS>
+      <SUBPART>
+        <RESERVED>Subpart A [Reserved]</RESERVED>
+      </SUBPART>
+      <SUBPART>
+        <HD SOURCE="HED">Subpart B—Filing Assistance</HD>
+        <SECHD>Sec.</SECHD>
+        <SECTNO>1012.30</SECTNO>
+        <SUBJECT>Scope of this subpart.</SUBJECT>
+        <SECTNO>1012.35</SECTNO>
+        <SUBJECT>Prefiling assistance.</SUBJECT>
+        <SECTNO>1012.40</SECTNO>
+        <SUBJECT>Processing of filings.</SUBJECT>
+      </SUBPART>
+      <SUBPART>
+        <RESERVED>Subpart C [Reserved]</RESERVED>
+      </SUBPART>
+      <SUBPART>
+        <HD SOURCE="HED">Subpart D—Adjudicatory Proceedings</HD>
+        <SECTNO>1012.105-1012.200</SECTNO>
+        <SUBJECT>[Reserved]</SUBJECT>
+        <SECTNO>1012.205</SECTNO>
+        <SUBJECT>Suspension notice prior to effective date.</SUBJECT>
+        <SECTNO>1012.210</SECTNO>
+        <SUBJECT>Hearings—suspension notice prior to effective date.</SUBJECT>
+        <SECTNO>1012.215</SECTNO>
+        <SUBJECT>Notice of proceedings subsequent to effective date.</SUBJECT>
+        <SECTNO>1012.220</SECTNO>
+        <SUBJECT>Hearings—notice of proceedings subsequent to effective date.</SUBJECT>
+        <SECTNO>1012.225</SECTNO>
+        <SUBJECT>Suspension order for failure to cooperate.</SUBJECT>
+        <SECTNO>1012.230</SECTNO>
+        <SUBJECT>Suspension order pending amendments.</SUBJECT>
+        <SECTNO>1012.235</SECTNO>
+        <SUBJECT>Hearings—suspension orders for failure to cooperate and pending amendments.</SUBJECT>
+        <SECTNO>1012.236</SECTNO>
+        <SUBJECT>Notice of proceedings to withdraw a State's certification.</SUBJECT>
+        <SECTNO>1012.237</SECTNO>
+        <SUBJECT>Hearings—notice of proceedings pursuant to withdrawal of state certification.</SUBJECT>
+        <SECTNO>1012.238</SECTNO>
+        <SUBJECT>Notices of proceedings to terminate exemptions.</SUBJECT>
+        <SECTNO>1012.239</SECTNO>
+        <SUBJECT>Hearings—notice of proceedings pursuant to exemptions.</SUBJECT>
+      </SUBPART>
+    </CONTENTS>
+    <AUTH>
+      <HD SOURCE="HED">Authority:</HD>
+      <P>12 U.S.C. 5512, 5581; 15 U.S.C. 1718.</P>
+    </AUTH>
+    <SOURCE>
+      <HD SOURCE="HED">Source:</HD>
+      <P>76 FR 79524, Dec. 21, 2011, unless otherwise noted.</P>
+    </SOURCE>
+    <SUBPART>
+      <RESERVED>Subpart A [Reserved]</RESERVED>
+    </SUBPART>
+    <SUBPART>
+      <HD SOURCE="HED">Subpart B—Filing Assistance</HD>
+      <SECTION>
+        <SECTNO>§ 1012.30</SECTNO>
+        <SUBJECT>Scope of this subpart.</SUBJECT>
+        <P>This subpart applies to and governs procedures under which developers may obtain prefiling assistance and be notified of and permitted to correct deficiencies in the Statement of Record.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1012.35</SECTNO>
+        <SUBJECT>Prefiling assistance.</SUBJECT>
+        <P>Persons intending to file with the Bureau of Consumer Financial Protection, Office of Nonbank Supervision may receive advice of a general nature as to the preparation of the filing including information as to proper format to be used and the scope of the items to be included in the format. Inquiries and requests for informal discussions with staff members should be directed to the Office of Nonbank Supervision, Interstate Land Sales Registration Program, Bureau of Consumer Financial Protection, 1700 G Street NW., Washington, DC 20006.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1012.40</SECTNO>
+        <SUBJECT>Processing of filings.</SUBJECT>
+        <P>(a) Statements of Record and accompanying filing fees will be received on behalf of the Director by the Office of Nonbank Supervision, for determination of whether the criteria set forth in paragraphs (a)(1) through (3) of this section have been satisfied. Where it appears that all three criteria are satisfied and it is otherwise practicable, acceleration of the effectiveness of the Statement of Record will normally be granted.</P>
+        <P>(1) Completeness of the statement</P>
+        <P>(2) Adequacy of the filing fee, and</P>
+        <P>(3) Adequacy of disclosure.</P>
+
+        <P>(b) Filings intended as Statements of Record but which do not comply in form with §§ 1010.105 and 1010.120 of this chapter, whichever is applicable, and Statements of Record accompanied by inadequate filing fees will not be effective to accomplish any purpose under the Act. At the discretion of the Interstate Land Sales Registration Program, such filings and any moneys accompanying them may be immediately <PRTPAGE P="322"/>returned to the sender or after notification may be held pending the sender's appropriate response.</P>
+        <P>(c) Persons filing incomplete or inaccurate Statements of Record will be notified of the deficiencies therein by the Suspension Notice procedure described in § 1010.45(a) of this chapter.</P>
+      </SECTION>
+    </SUBPART>
+    <SUBPART>
+      <RESERVED>Subpart C [Reserved]</RESERVED>
+    </SUBPART>
+    <SUBPART>
+      <HD SOURCE="HED">Subpart D—Adjudicatory Proceedings</HD>
+      <SECTION>
+        <SECTNO>§§ 1012.105-1012.200</SECTNO>
+        <RESERVED>[Reserved]</RESERVED>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1012.205</SECTNO>
+        <SUBJECT>Suspension notice prior to effective date.</SUBJECT>
+        <P>A suspension pursuant to § 1010.45(a) of this chapter shall be effected by service of a suspension notice which shall contain:</P>
+        <P>(a) An identification of the filing to which the notice applies.</P>
+        <P>(b) A specification of the deficiencies of form, disclosure, accuracy, documentation or fee tender which constitute the grounds under § 1010.45(a) of this chapter, of the suspension, and of the additional or corrective procedure, information, documentation, or tender which will satisfy the Director's requirements.</P>
+        <P>(c) A notice of the hearing rights of the developer under § 1012.210 and of the procedures for invoking those rights.</P>
+        <P>(d) A notice that, unless otherwise ordered, the suspension shall remain in effect until 30 days after the developer cures the specified deficiencies as required by the notice.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1012.210</SECTNO>
+        <SUBJECT>Hearings—suspension notice prior to effective date.</SUBJECT>
+        <P>(a) A developer, upon receipt of a suspension notice issued pursuant to § 1010.45(a) of this chapter, may obtain a hearing by filing a written request in accordance with the instructions regarding such request contained in the suspension notice. Such a request must be filed within 15 days of receipt of the suspension notice and must be accompanied by an answer and 3 copies thereof signed by the respondent or the respondent's attorney conforming to the requirements of 1081.201(b) and (c).</P>
+        <P>(b) When a hearing is requested pursuant to paragraph (a) of this section, such hearing shall be held within 20 days of receipt of the request. The time and place for hearing shall be fixed with due regard for the public interest and the convenience and necessity of the parties or their representatives.</P>
+        <P>(c) A request for hearing filed pursuant to paragraph (a) of this section shall not interrupt or annul the effectiveness of the suspension notice, and suspension of the effective date of the Statement or amendment shall continue until vacated by order of the Director or administrative law judge. Except in cases in which the developer shall waive or withdraw the request for such hearing, or shall fail to pursue the same by appropriate appearance at a hearing duly scheduled, noticed and convened, the suspended filing shall be reinstated in the event of failure of the Director to schedule, give notice of or hold a duly-requested hearing within the time specified in paragraph (b) of this section, or in the event of a finding that the Director has failed to support at such hearing the propriety of the suspension with respect to the material issues of law and fact raised by the answer. Such reinstatement shall be effective on the date on which the filing would have become effective had no notice of suspension been issued with respect to it.</P>
+        <P>(d) If there is an outstanding suspension notice under § 1010.45(a) with respect to the same matter for which a suspension order under § 1010.45(b)(3) is issued, the notice and order shall be consolidated for the purposes of hearing. In the event that allegations upon which the suspension notice and suspension order are based are identical, only one answer need be filed.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1012.215</SECTNO>
+        <SUBJECT>Notice of proceedings subsequent to effective date.</SUBJECT>
+        <P>A proceeding pursuant to § 1010.45(b)(1) of this chapter is commenced by issuance and service of a notice which shall contain:</P>
+        <P>(a) A clear and accurate identification of the filing or filings to which the notice relates.</P>
+
+        <P>(b) A clear and concise statement of material facts, sufficient to inform the <PRTPAGE P="323"/>respondent with reasonable definiteness of the statements, omissions, conduct, circumstances or practices alleged to constitute the grounds for the proposed suspension order under § 1010.45(b)(1) of this chapter.</P>
+        <P>(c) A notice of hearing rights of the developer under § 1012.220 and of the procedures for invoking those rights.</P>
+        <P>(d) Designation of the administrative law judge appointed to preside over pre-hearing procedures and over the hearings.</P>
+        <P>(e) A notice that failure to file an answer conforming to the requirements of § 1081.201(b) and (c) will result in an order suspending the Statement of Record.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1012.220</SECTNO>
+        <SUBJECT>Hearings—notice of proceedings subsequent to effective date.</SUBJECT>
+        <P>(a) A developer, upon receipt of a notice of proceedings issued pursuant to § 1010.45(b)(1) of this chapter, may obtain a hearing by filing a written request in accordance with the instructions regarding such request contained in the notice of proceedings. Such a request must be filed within 15 days of receipt of the notice of proceedings and must be accompanied by an answer conforming to the requirements of § 1081.201(b) and (c).</P>
+        <P>(b) When a hearing is requested pursuant to paragraph (a) of this section, such hearing shall be held within 45 days of receipt of the request by the Director unless it is determined that it is not in the public interest. The time and place for hearing shall be fixed with due regard for the public interest and the convenience and necessity of the parties or their representatives.</P>
+        <P>(c) Failure to answer within the time allowed by paragraph (a) of this section or failure of a developer to appear at a hearing duly scheduled shall result in an appropriate order under § 1010.45(b)(1) of this chapter suspending the statement of record. Such order shall be effective as of the date of service or receipt.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1012.225</SECTNO>
+        <SUBJECT>Suspension order for failure to cooperate.</SUBJECT>
+        <P>A suspension pursuant to § 1010.45(b)(2) of this chapter shall be effected by service of a suspension order which shall contain:</P>
+        <P>(a) An identification of the filing to which the order applies.</P>
+        <P>(b) Bases for issuance of order.</P>
+        <P>(c) A notice of the hearing rights of the developer under § 1012.235 the procedures for invoking those rights.</P>
+        <P>(d) A statement that the order shall remain in effect until the developer has complied with the Director's requirements.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1012.230</SECTNO>
+        <SUBJECT>Suspension order pending amendments.</SUBJECT>
+        <P>A suspension pursuant to paragraph (b)(3) of § 1010.45 of this chapter shall be effected by service of a suspension order which shall contain:</P>
+        <P>(a) An identification of the filing to which the order applies.</P>
+        <P>(b) An identification of the amendment to the filing which generated the order.</P>
+        <P>(c) A statement that the issuance of the order is necessary or appropriate in the public interest or for the protection of purchasers.</P>
+        <P>(d) A statement that the order shall remain in effect until the amendment becomes effective.</P>
+        <P>(e) A notice of the hearing rights of the developer under § 1012.235 and of the procedure for invoking those rights.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1012.235</SECTNO>
+        <SUBJECT>Hearings—suspension orders for failure to cooperate and pending amendments.</SUBJECT>
+        <P>(a) A developer, upon receipt of a suspension order issued pursuant to § 1010.45(b)(2) or § 1010.45(b)(3) of this chapter, may obtain a hearing by filing a written request in accordance with the instructions regarding such request contained in the suspension order. Such request must be filed within 15 days of receipt of the suspension order and must be accompanied by an answer and 3 copies thereof signed by the respondent or respondent's attorney conforming to the requirements of § 1081.201(b) and (c).</P>
+
+        <P>(b) When a hearing is requested pursuant to paragraph (a) of this section, such hearing shall be held within 20 days of receipt of the request. The time and place for hearing shall be fixed with due regard for the public interest <PRTPAGE P="324"/>and the convenience and necessity of the parties or their representatives.</P>
+        <P>(c) A request for hearing filed pursuant to paragraph (a) of this section shall not interrupt or annul the effectiveness of the suspension order.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1012.236</SECTNO>
+        <SUBJECT>Notice of proceedings to withdraw a State's certification.</SUBJECT>
+        <P>A proceeding pursuant to § 1010.505 of this chapter is commenced by issuance and service of a notice which shall contain:</P>
+        <P>(a) An identification of the state certification to which the notice applies.</P>
+        <P>(b) A clear and concise statement of material facts, sufficient to inform the respondent with reasonable definiteness of the basis for the Director's determination, pursuant to § 1010.505, that the State's laws, regulations and the administration thereof, taken as a whole, no longer meet the requirements of § 1010.501.</P>
+        <P>(c) A notice of hearing rights of the state under § 1012.237 and of the procedures for invoking those rights.</P>
+        <P>(d) A notice that failure to file an answer conforming to the requirements of § 1081.201(b) and (c) will result in an order suspending the State's certification.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1012.237</SECTNO>
+        <SUBJECT>Hearings—notice of proceedings pursuant to withdrawal of state certification.</SUBJECT>
+        <P>(a) A State, upon receipt of a notice of proceedings issued pursuant to § 1010.505 of this chapter, may obtain a hearing by filing a written request in accordance with the instructions regarding such request contained in the notice of proceedings. Such request must be filed within 15 days of receipt of the notice of proceedings and must be accompanied by an answer conforming to the requirements of § 1081.201(b) and (c).</P>
+        <P>(b) When a hearing is requested pursuant to paragraph (a) of this section, such hearing shall be held within 45 days of receipt of this request. The time and place for the hearing shall be fixed with due regard for the public interest and the convenience and necessity of the parties or their representatives.</P>
+        <P>(c) Failure to answer within the time allowed by paragraph (a) of this section or failure to appear at a hearing duly scheduled shall result in an appropriate order under § 1010.505 of this chapter withdrawing the State's certification. Such order shall be effective as of the date of service or receipt.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1012.238</SECTNO>
+        <SUBJECT>Notices of proceedings to terminate exemptions.</SUBJECT>
+        <P>A proceeding to terminate a self-determining exemption under § 1010.14 or an exemption order under § 1010.15 or § 1010.16 is commenced by issuance and service of a notice which shall contain:</P>
+        <P>(a) In the case of an exemption under § 1010.14, an identification of the developer and subdivision to which this notice applies. In the case of an exemption under either § 1010.15 or § 1010.16, an identification of the exemption order to which the notice applies.</P>
+        <P>(b) A clear and concise statement of material facts, sufficient to inform the respondent with reasonable definiteness of the basis for the Director's determination that further exemption from the registration and disclosure requirements is not in the public interest or that the sales or leases do not meet the requirements for exemption, or both.</P>
+        <P>(c) A notice of hearing rights of the respondent under § 1012.239 and of the procedures for invoking those rights.</P>
+        <P>(d) A notice that failure to file an answer conforming to the requirements of § 1081.201(b) and (c) will result, in the case of a notice issued under § 1010.14, in an order terminating eligibility for the exemption, or, in the case of a notice issued under either § 1010.15 or § 1010.16, in an order terminating the exemption order.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1012.239</SECTNO>
+        <SUBJECT>Hearings—notice of proceedings pursuant to exemptions.</SUBJECT>
+        <P>(a) A developer, upon receipt of a notice of proceedings issued under §§ 1010.14, 1010.15, and 1010.16 of this chapter, may obtain a hearing by filing a written request contained in the notice of proceedings. The request must be filed within 15 days of receipt of the notice of proceedings and must be accompanied by an answer conforming to the requirements of § 1081.201(b) and (c).</P>
+
+        <P>(b) When a hearing is requested pursuant to paragraph (a) of this section, such hearing shall be held within 45 <PRTPAGE P="325"/>days of receipt of this request. The time and place for the hearing shall be fixed with due regard for the public interest and the convenience and necessity of the parties of their representatives.</P>
+        <P>(c) Failure to answer within the time allowed by paragraph (a) of this section, or failure to appear at a duly scheduled hearing shall result in an appropriate order under § 1010.14, § 1010.15, or § 1010.16 of this chapter terminating the developer's exemption. The order shall be effective as of the date of service or receipt.</P>
+      </SECTION>
+    </SUBPART>
+  </PART>
+</CFRGRANULE>
