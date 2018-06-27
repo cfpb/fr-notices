@@ -1,0 +1,854 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="cfr.xsl"?>
+<CFRGRANULE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="CFRMergedXML.xsd">
+  <FDSYS>
+    <CFRTITLE>12</CFRTITLE>
+    <CFRTITLETEXT>Banks and Banking</CFRTITLETEXT>
+    <VOL>9</VOL>
+    <DATE>2017-01-01</DATE>
+    <ORIGINALDATE>2017-01-01</ORIGINALDATE>
+    <COVERONLY>false</COVERONLY>
+    <TITLE>DISCLOSURE OF RECORDS AND INFORMATION</TITLE>
+    <GRANULENUM>1070</GRANULENUM>
+    <HEADING>PART 1070</HEADING>
+    <ANCESTORS>
+      <PARENT HEADING="Title 12" SEQ="1">Banks and Banking</PARENT>
+      <PARENT HEADING="CHAPTER X" SEQ="0">BUREAU OF CONSUMER FINANCIAL PROTECTION (CONTINUED)</PARENT>
+    </ANCESTORS>
+  </FDSYS>
+  <PART>
+    <EAR>Pt. 1070</EAR>
+    <HD SOURCE="HED">PART 1070—DISCLOSURE OF RECORDS AND INFORMATION</HD>
+    <CONTENTS>
+      <SUBPART>
+        <HD SOURCE="HED">Subpart A—General Provisions and Definitions</HD>
+        <SECHD>Sec.</SECHD>
+        <SECTNO>1070.1</SECTNO>
+        <SUBJECT>Authority, purpose and scope.</SUBJECT>
+        <SECTNO>1070.2</SECTNO>
+        <SUBJECT>General definitions.</SUBJECT>
+        <SECTNO>1070.3</SECTNO>
+        <SUBJECT>Custodian of records; certification; alternative authority.</SUBJECT>
+        <SECTNO>1070.4</SECTNO>
+        <SUBJECT>Records of the CFPB not to be otherwise disclosed.</SUBJECT>
+      </SUBPART>
+      <SUBPART>
+        <PRTPAGE P="976"/>
+        <HD SOURCE="HED">Subpart B—Freedom of Information Act</HD>
+        <SECTNO>1070.10</SECTNO>
+        <SUBJECT>General.</SUBJECT>
+        <SECTNO>1070.11</SECTNO>
+        <SUBJECT>Information made available; discretionary disclosures.</SUBJECT>
+        <SECTNO>1070.12</SECTNO>
+        <SUBJECT>Publication in the Federal Register.</SUBJECT>
+        <SECTNO>1070.13</SECTNO>
+        <SUBJECT>Public inspection and copying.</SUBJECT>
+        <SECTNO>1070.14</SECTNO>
+        <SUBJECT>Requests for CFPB records.</SUBJECT>
+        <SECTNO>1070.15</SECTNO>
+        <SUBJECT>Responsibility for responding to requests for CFPB records.</SUBJECT>
+        <SECTNO>1070.16</SECTNO>
+        <SUBJECT>Timing of responses to requests for CFPB records.</SUBJECT>
+        <SECTNO>1070.17</SECTNO>
+        <SUBJECT>Requests for expedited processing.</SUBJECT>
+        <SECTNO>1070.18</SECTNO>
+        <SUBJECT>Responses to requests for CFPB records.</SUBJECT>
+        <SECTNO>1070.19</SECTNO>
+        <SUBJECT>Classified information.</SUBJECT>
+        <SECTNO>1070.20</SECTNO>
+        <SUBJECT>Requests for business information provided to the CFPB.</SUBJECT>
+        <SECTNO>1070.21</SECTNO>
+        <SUBJECT>Administrative appeals.</SUBJECT>
+        <SECTNO>1070.22</SECTNO>
+        <SUBJECT>Fees for processing requests for CFPB records.</SUBJECT>
+        <SECTNO>1070.23</SECTNO>
+        <SUBJECT>Authority and responsibilities of the Chief FOIA Officer.</SUBJECT>
+      </SUBPART>
+      <SUBPART>
+        <HD SOURCE="HED">Subpart C—Disclosure of CFPB Information in Connection With Legal Proceedings</HD>
+        <SECTNO>1070.30</SECTNO>
+        <SUBJECT>Purpose and scope; definitions.</SUBJECT>
+        <SECTNO>1070.31</SECTNO>
+        <SUBJECT>Service of summonses and complaints.</SUBJECT>
+        <SECTNO>1070.32</SECTNO>
+        <SUBJECT>Service of subpoenas, court orders, and other demands for CFPB information or action.</SUBJECT>
+        <SECTNO>1070.33</SECTNO>
+        <SUBJECT>Testimony and production of documents prohibited unless approved by the General Counsel.</SUBJECT>
+        <SECTNO>1070.34</SECTNO>
+        <SUBJECT>Procedure when testimony or production of documents is sought; general.</SUBJECT>
+        <SECTNO>1070.35</SECTNO>
+        <SUBJECT>Procedure when response to demand is required prior to receiving instructions.</SUBJECT>
+        <SECTNO>1070.36</SECTNO>
+        <SUBJECT>Procedure in the event of an adverse ruling.</SUBJECT>
+        <SECTNO>1070.37</SECTNO>
+        <SUBJECT>Considerations in determining whether the CFPB will comply with a demand or request.</SUBJECT>
+        <SECTNO>1070.38</SECTNO>
+        <SUBJECT>Prohibition on providing expert or opinion testimony.</SUBJECT>
+      </SUBPART>
+      <SUBPART>
+        <HD SOURCE="HED">Subpart D—Confidential Information</HD>
+        <SECTNO>1070.40</SECTNO>
+        <SUBJECT>Purpose and scope.</SUBJECT>
+        <SECTNO>1070.41</SECTNO>
+        <SUBJECT>Non-disclosure of confidential information.</SUBJECT>
+        <SECTNO>1070.42</SECTNO>
+        <SUBJECT>Disclosure of confidential supervisory information to and by supervised financial institutions.</SUBJECT>
+        <SECTNO>1070.43</SECTNO>
+        <SUBJECT>Disclosure of confidential information to law enforcement agencies and other government agencies.</SUBJECT>
+        <SECTNO>1070.44</SECTNO>
+        <SUBJECT>Disclosure of confidential consumer complaint information.</SUBJECT>
+        <SECTNO>1070.45</SECTNO>
+        <SUBJECT>Affirmative disclosure of confidential information.</SUBJECT>
+        <SECTNO>1070.46</SECTNO>
+        <SUBJECT>Other disclosures of confidential information.</SUBJECT>
+        <SECTNO>1070.47</SECTNO>
+        <SUBJECT>Other rules regarding the disclosure of confidential information.</SUBJECT>
+        <SECTNO>1070.48</SECTNO>
+        <SUBJECT>Privileges not affected by disclosure to the CFPB.</SUBJECT>
+      </SUBPART>
+      <SUBPART>
+        <HD SOURCE="HED">Subpart E—Privacy Act</HD>
+        <SECTNO>1070.50</SECTNO>
+        <SUBJECT>Purpose and scope; definitions.</SUBJECT>
+        <SECTNO>1070.51</SECTNO>
+        <SUBJECT>Authority and responsibilities of the Chief Privacy Officer.</SUBJECT>
+        <SECTNO>1070.52</SECTNO>
+        <SUBJECT>Fees.</SUBJECT>
+        <SECTNO>1070.53</SECTNO>
+        <SUBJECT>Request for access to records.</SUBJECT>
+        <SECTNO>1070.54</SECTNO>
+        <SUBJECT>CFPB procedures for responding to a request for access.</SUBJECT>
+        <SECTNO>1070.55</SECTNO>
+        <SUBJECT>Special procedures for medical records.</SUBJECT>
+        <SECTNO>1070.56</SECTNO>
+        <SUBJECT>Request for amendment of records.</SUBJECT>
+        <SECTNO>1070.57</SECTNO>
+        <SUBJECT>CFPB review of a request for amendment of records.</SUBJECT>
+        <SECTNO>1070.58</SECTNO>
+        <SUBJECT>Appeal of adverse determination of request for access or amendment.</SUBJECT>
+        <SECTNO>1070.59</SECTNO>
+        <SUBJECT>Restrictions on disclosure.</SUBJECT>
+        <SECTNO>1070.60</SECTNO>
+        <SUBJECT>Exempt records.</SUBJECT>
+        <SECTNO>1070.61</SECTNO>
+        <SUBJECT>Training; rules of conduct; penalties for non-compliance.</SUBJECT>
+        <SECTNO>1070.62</SECTNO>
+        <SUBJECT>Preservation of records.</SUBJECT>
+        <SECTNO>1070.63</SECTNO>
+        <SUBJECT>Use and collection of social security numbers.</SUBJECT>
+      </SUBPART>
+    </CONTENTS>
+    <AUTH>
+      <HD SOURCE="HED">Authority:</HD>
+      <P>12 U.S.C. 5481 <E T="03">et seq.;</E> 5 U.S.C. 552; 5 U.S.C. 552a; 18 U.S.C. 1905; 18 U.S.C. 641; 44 U.S.C. ch. 30; 5 U.S.C. 301.</P>
+    </AUTH>
+    <SOURCE>
+      <HD SOURCE="HED">Source:</HD>
+      <P>78 FR 11503, Feb. 15, 2013, unless otherwise noted.</P>
+    </SOURCE>
+    <SUBPART>
+      <HD SOURCE="HED">Subpart A—General Provisions and Definitions</HD>
+      <SECTION>
+        <SECTNO>§ 1070.1</SECTNO>
+        <SUBJECT>Authority, purpose, and scope.</SUBJECT>
+        <P>(a) <E T="03">Authority.</E> (1) This part is issued by the Bureau of Consumer Financial Protection, an independent Bureau within the Federal Reserve System, pursuant to the Consumer Financial Protection Act of 2010, 12 U.S.C. 5481 <E T="03">et seq.;</E> the Freedom of Information Act, 5 U.S.C. 552; the Privacy Act of 1974, 5 U.S.C. 552a; the Federal Records Act, 44 U.S.C. 3101; the Paperwork Reduction Act, 44 U.S.C. 3501 <E T="03">et seq.</E> the Right to Financial Privacy Act of 1978, 12 U.S.C. 3401; the Trade Secrets Act, 18 U.S.C. 1905; 18 U.S.C. 641; and any other applicable law that establishes a basis for the exercise of governmental authority by the CFPB.</P>
+
+        <P>(2) This part establishes mechanisms for carrying out the CFPB's statutory responsibilities under the statutes in paragraph (a)(1) of this section to the extent those responsibilities require the disclosure, production, or withholding of information. In this regard, the CFPB has determined that the CFPB, and its delegates, may disclose <PRTPAGE P="977"/>information of the CFPB, in accordance with the procedures set forth in this part, whenever it is necessary or appropriate to do so in the exercise of any of the CFPB's authority. The CFPB has determined that all such disclosures, made in accordance with the rules and procedures specified in this part, are authorized by law.</P>
+        <P>(b) <E T="03">Purpose and scope.</E> This part contains the CFPB's rules relating to the disclosure of records and information generated by and obtained by the CFPB.</P>
+        <P>(1) Subpart A contains general provisions and definitions used in this part.</P>
+        <P>(2) Subpart B implements the Freedom of Information Act, 5 U.S.C. 552.</P>
+        <P>(3) Subpart C sets forth the procedures with respect to subpoenas, orders, or other requests for CFPB information in connection with legal proceedings.</P>
+        <P>(4) Subpart D provides for the protection of confidential information and procedures for sharing confidential information with supervised institutions, government agencies, and others in certain circumstances.</P>
+        <P>(5) Subpart E implements the Privacy Act of 1974, 5 U.S.C. 552a.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1070.2</SECTNO>
+        <SUBJECT>General definitions.</SUBJECT>
+        <P>For purposes of this part:</P>
+        <P>(a) <E T="03">Business day</E> means any day except Saturday, Sunday or a legal Federal holiday.</P>
+        <P>(b) <E T="03">CFPB</E> means the Bureau of Consumer Financial Protection.</P>
+        <P>(c) <E T="03">Chief FOIA Officer</E> means the Chief Operating Officer of the CFPB, or any CFPB employee to whom the Chief Operating Officer has delegated authority to act under this part.</P>
+        <P>(d) <E T="03">Chief Operating Officer</E> means the Chief Operating Officer of the CFPB, or any CFPB employee to whom the Chief Operating Officer has delegated authority to act under this part.</P>
+        <P>(e) <E T="03">Civil investigative demand material</E> means any documentary material, written report, or answers to questions, tangible thing, or transcript of oral testimony received by the CFPB in any form or format pursuant to a civil investigative demand, as those terms are set forth in 12 U.S.C. 5562, or received by the CFPB voluntarily in lieu of a civil investigative demand.</P>
+        <P>(f) <E T="03">Confidential information</E> means confidential consumer complaint information, confidential investigative information, and confidential supervisory information, as well as any other CFPB information that may be exempt from disclosure under the Freedom of Information Act pursuant to 5 U.S.C. 552(b). Confidential information does not include information contained in records that have been made publicly available by the CFPB or information that has otherwise been publicly disclosed by an employee with the authority to do so.</P>
+        <P>(g) <E T="03">Confidential consumer complaint information</E> means information received or generated by the CFPB, pursuant to 12 U.S.C. 5493 and 5534, that comprises or documents consumer complaints or inquiries concerning financial institutions or consumer financial products and services and responses thereto, to the extent that such information is exempt from disclosure pursuant to 5 U.S.C. 552(b).</P>
+        <P>(h) <E T="03">Confidential investigative information</E> means:</P>
+        <P>(1) Civil investigative demand material; and</P>
+        <P>(2) Any documentary material prepared by, on behalf of, received by, or for the use by the CFPB or any other Federal or State agency in the conduct of an investigation of or enforcement action against a person, and any information derived from such documents.</P>
+        <P>(i)(1) <E T="03">Confidential supervisory information</E> means:</P>
+        <P>(i) Reports of examination, inspection and visitation, non-public operating, condition, and compliance reports, and any information contained in, derived from, or related to such reports;</P>
+        <P>(ii) Any documents, including reports of examination, prepared by, or on behalf of, or for the use of the CFPB or any other Federal, State, or foreign government agency in the exercise of supervisory authority over a financial institution, and any information derived from such documents;</P>
+
+        <P>(iii) Any communications between the CFPB and a supervised financial institution or a Federal, State, or foreign government agency related to the CFPB's supervision of the institution;<PRTPAGE P="978"/>
+        </P>
+        <P>(iv) any information provided to the CFPB by a financial institution to enable the CFPB to monitor for risks to consumers in the offering or provision of consumer financial products or services, or to assess whether an institution should be considered a covered person, as that term is defined by 12 U.S.C. 5481, or is subject to the CFPB's supervisory authority; and/or</P>
+        <P>(v) Information that is exempt from disclosure pursuant to 5 U.S.C. 552(b)(8).</P>
+        <P>(2) <E T="03">Confidential supervisory information</E> does not include documents prepared by a financial institution for its own business purposes and that the CFPB does not possess.</P>
+        <P>(j) <E T="03">Director</E> means the Director of the CFPB or his or her designee, or a person authorized to perform the functions of the Director in accordance with law.</P>
+        <P>(k) <E T="03">Employee</E> means all current employees or officials of the CFPB, including employees of contractors and any other individuals who have been appointed by, or are subject to the supervision, jurisdiction, or control of the Director, as well as the Director. The procedures established within this part also apply to former employees where specifically noted.</P>
+        <P>(l) <E T="03">Financial institution</E> means any person involved in the offering or provision of a “financial product or service,” including a “covered person” or “service provider,” as those terms are defined by 12 U.S.C. 5481.</P>
+        <P>(m) <E T="03">General Counsel</E> means the General Counsel of the CFPB or any CFPB employee to whom the General Counsel has delegated authority to act under this part.</P>
+        <P>(n) <E T="03">Person</E> means an individual, partnership, company, corporation, association (incorporated or unincorporated), trust, estate, cooperative organization, or other entity.</P>
+        <P>(o) <E T="03">Report of examination</E> means the report prepared by the CFPB concerning the examination or inspection of a supervised financial institution.</P>
+        <P>(p) <E T="03">State</E> means any State, territory, or possession of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, American Samoa, or the United States Virgin Islands or any Federally recognized Indian tribe, as defined by the Secretary of the Interior under section 104(a) of the Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C. 479a-1(a)), and includes any political subdivision thereof.</P>
+        <P>(q) <E T="03">Supervised financial institution</E> means a financial institution that is or that may become subject to the CFPB's supervisory authority.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1070.3</SECTNO>
+        <SUBJECT>Custodian of records; certification; alternative authority.</SUBJECT>
+        <P>(a) <E T="03">Custodian of records.</E> The Chief Operating Officer is the official custodian of all records of the CFPB, including records that are in the possession or control of the CFPB or any CFPB employee.</P>
+        <P>(b) <E T="03">Certification of record.</E> The Chief Operating Officer may certify the authenticity of any CFPB record or any copy of such record, for any purpose, and for or before any duly constituted Federal or State court, tribunal, or agency.</P>
+        <P>(c) <E T="03">Alternative authority.</E> Any action or determination required or permitted to be done by the Chief Operating Officer may be done by any employee who has been duly designated for this purpose by the Chief Operating Officer.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1070.4</SECTNO>
+        <SUBJECT>Records of the CFPB not to be otherwise disclosed.</SUBJECT>
+        <P>Except as provided by this part, employees or former employees of the CFPB, or others in possession of a record of the CFPB that the CFPB has not already made public, are prohibited from disclosing such records, without authorization, to any person who is not an employee of the CFPB.</P>
+      </SECTION>
+    </SUBPART>
+    <SUBPART>
+      <HD SOURCE="HED">Subpart B—Freedom of Information Act</HD>
+      <SECTION>
+        <SECTNO>§ 1070.10</SECTNO>
+        <SUBJECT>General.</SUBJECT>
+
+        <P>This subpart contains the regulations of the CFPB implementing the Freedom of Information Act (the FOIA), 5 U.S.C. 552, as amended. These regulations set forth procedures for requesting access to records maintained by the CFPB. These regulations should be read together with the FOIA, the 1987 Office of Management and Budget Guidelines for FOIA Fees, the CFPB's <PRTPAGE P="979"/>Privacy Act regulations set forth in subpart E, and the FOIA Web page on the CFPB's Web site, <E T="03">http://www.consumerfinance.gov,</E> which provide additional information about this topic.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1070.11</SECTNO>
+        <SUBJECT>Information made available; discretionary disclosures.</SUBJECT>
+        <P>(a) <E T="03">In general.</E> The FOIA provides for public access to information and records developed or maintained by Federal agencies. Generally, the FOIA divides agency information into three major categories and provides methods by which each category of information is to be made available to the public. The three major categories of information are as follows:</P>
+        <P>(1) Information required to be published in the <E T="04">Federal Register</E> (see § 1070.12 of this subpart);</P>
+        <P>(2) Information required to be made available for public inspection and copying or, in the alternative, to be published and offered for sale (see § 1070.13 of this subpart); and</P>
+        <P>(3) Information required to be made available to any member of the public upon specific request (see §§ 1070.14 through 1070.22 of this subpart).</P>
+        <P>(b) <E T="03">Discretionary disclosures.</E> Even though a FOIA exemption may apply to the information or records requested, the CFPB may, if not precluded by law, elect under the circumstances not to apply the exemption. The fact that the exemption is not applied by the CFPB in response to a particular request shall have no precedential significance in processing other requests, but is merely an indication that, in the processing of the particular request, the CFPB finds no necessity for applying the exemption.</P>
+        <P>(c) <E T="03">Disclosures of records frequently requested.</E> Subject to the application of the FOIA exemptions and exclusions (5 U.S.C. 552(b) and (c)), the CFPB shall make publicly available, as provided by § 1070.13 of this subpart, all records regardless of form or format, which have been released previously to any person under 5 U.S.C. 552(a)(3) and §§ 1070.14 through 1070.22 of this subpart, and which the CFPB determines have become or are likely to become the subject of subsequent requests for substantially the same records. When the CFPB receives three (3) or more requests for substantially the same records, then the CFPB shall also make the released records publicly available.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1070.12</SECTNO>
+        <SUBJECT>Publication in the Federal Register.</SUBJECT>
+        <P>(a) <E T="03">Requirement.</E> The CFPB shall separately state, publish and maintain current in the <E T="04">Federal Register</E> for the guidance of the public the following information:</P>
+        <P>(1) Descriptions of its central and field organization and the established place at which, the persons from whom, and the methods whereby, the public may obtain information, make submissions or requests, or obtain decisions;</P>
+        <P>(2) Statements of the general course and method by which its functions are channeled and determined, including the nature and requirements of all formal and informal procedures available;</P>
+        <P>(3) Rules of procedure, descriptions of forms available or the places at which forms may be obtained, and instructions as to the scope and contents of all papers, reports, or examinations;</P>
+        <P>(4) Substantive rules of general applicability adopted as authorized by law, and statements of general policy or interpretations of general applicability formulated and adopted by the CFPB; and</P>
+        <P>(5) Each amendment, revision, or repeal of matters referred to in paragraphs (a)(1) through (4) of this section.</P>
+        <P>(b) <E T="03">Exceptions.</E> Publication of the information under clause (a) of this subpart shall be subject to the application of the FOIA exemptions and exclusions (5 U.S.C. 552(b) and (c)) and the limitations provided in 5 U.S.C. 552(a)(1).</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1070.13</SECTNO>
+        <SUBJECT>Public inspection and copying.</SUBJECT>
+        <P>(a) <E T="03">In general.</E> Subject to the application of the FOIA exemptions and exclusions (5 U.S.C. 552(b) and (c)), the CFPB shall, in conformance with 5 U.S.C. 552(a)(2), make available for public inspection and copying, including by posting on the CFPB's Web site, <E T="03">http://www.consumerfinance.gov,</E> or, in the alternative, promptly publish and offer for sale the following information:</P>
+
+        <P>(1) Final opinions, including concurring and dissenting opinions, and orders made in the adjudication of cases;<PRTPAGE P="980"/>
+        </P>
+
+        <P>(2) Those statements of policy and interpretations which have been adopted by the CFPB but are not published in the <E T="04">Federal Register</E>;</P>
+        <P>(3) Its administrative staff manuals and instructions to staff that affect a member of the public;</P>
+        <P>(4) Copies of all records made publicly available pursuant to § 1070.11 of this subpart; and</P>
+        <P>(5) A general index of the records referred to in paragraph (a)(4) of this section.</P>
+        <P>(b) <E T="03">Information made available online.</E> For records required to be made available for public inspection and copying pursuant to 5 U.S.C. 552(a)(2) (paragraphs (a)(1) through (4) of this section), as soon as practicable, the CFPB shall make such records available on its e-FOIA Library, located at <E T="03">http://www.consumerfinance.gov.</E>
+        </P>
+        <P>(c) <E T="03">Record availability at the on-site e-FOIA Library.</E> Any member of the public may, upon request, access the CFPB's e-FOIA Library via a computer terminal at 1700 G Street NW., Washington, DC 20552. Such a request may be made by electronic means as set forth on the CFPB's Web site, <E T="03">http://www.consumerfinance.gov</E>, or in writing, to the Chief FOIA Officer, Consumer Financial Protection Bureau, 1700 G Street NW., Washington, DC 20552. The request must indicate a preferred date and time for the requested access. The CFPB reserves the right to arrange a different date and time with the requester, if necessary.</P>
+        <P>(d) <E T="03">Redaction of identifying details.</E> To prevent a clearly unwarranted invasion of personal privacy, the CFPB may redact identifying details contained in any matter described in paragraphs (a)(1) through (4) of this section before making such matters available for inspection or publication. The justification for the redaction shall be explained fully in writing, and the extent of such redaction shall be indicated on the portion of the record which is made available or published, unless including that indication would harm an interest protected by the exemption in 5 U.S.C. 552(b) under which the redaction is made. If technically feasible, the extent of the redaction shall be indicated at the place in the record where the redaction is made.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1070.14</SECTNO>
+        <SUBJECT>Requests for CFPB records.</SUBJECT>
+        <P>(a) <E T="03">In general.</E> Subject to the application of the FOIA exemptions and exclusions (5 U.S.C. 552(b) and (c)), the CFPB shall promptly make its records available to any person pursuant to a request that conforms to the rules and procedures of this section.</P>
+        <P>(b) <E T="03">Form of request.</E> A request for records of the CFPB shall be made in writing or by electronic means.</P>
+        <P>(1) If a request is made in writing, it shall be addressed to the Chief FOIA Officer, Consumer Financial Protection Bureau, 1700 G Street NW., Washington, DC 20552. The request shall be labeled “Freedom of Information Act Request.”</P>
+
+        <P>(2) If a request is made by electronic means, it shall be submitted as set forth on the CFPB's Web site, <E T="03">http://www.consumerfinance.gov.</E> The request shall be labeled “Freedom of Information Act Request.”</P>
+        <P>(c) <E T="03">Content of request.</E> (1) In order to ensure the CFPB's ability to respond in a timely manner, a FOIA request should describe the records that the requester seeks in sufficient detail to enable CFPB personnel to locate them with a reasonable amount of effort. Whenever possible, the request should include specific information about each record sought, such as the date, title or name, author, recipient, and subject matter of the record. If known, the requester should include any file designations or descriptions for the records requested. As a general rule, the more specific the requester is about the records or type of records requested, the more likely the CFPB will be able to locate those records in response to the request;</P>
+        <P>(2) In order to ensure the CFPB's ability to communicate effectively with the requester, a request should include contact information for the requester, including the name of the requester and, to the extent available, a mailing address, telephone number, and email address at which the CFPB may contact the requester regarding the request;</P>
+
+        <P>(3) The request should state whether the requester wishes to inspect the records or desires to receive an electronic copy or have a copy made and <PRTPAGE P="981"/>furnished without first inspecting the records;</P>
+
+        <P>(4) For the purpose of determining any fees that may apply to processing a request, a requester should indicate in the request whether the requester is a commercial user, an educational institution, non-commercial scientific institution, representative of the news media, governmental entity, or “other” requester, as those terms are defined in § 1070.22(b) of this subpart, and the basis for claiming that fee category. Requesters may seek assistance in determining the appropriate fee category by contacting the CFPB's FOIA Public Liaison at the telephone number listed on the CFPB's Web site, <E T="03">http://www.consumerfinance.gov.</E> The CFPB will use any information provided to the FOIA Public Liaison solely for the purpose of determining the appropriate fee category that applies to the requester;</P>
+        <P>(5) If a requester seeks a waiver or reduction of fees associated with processing a request, then the request shall include a statement to that effect as is required by § 1070.22(e) of this subpart. Any request that does not seek a waiver or reduction of fees constitutes an agreement of the requester to pay any and all fees (of up to $25) that may apply to the request, as otherwise set forth in § 1070.22 of this subpart, except that the requester may specify in the request an upper limit (of not less than $25) that the requester is willing to pay to process the request; and</P>
+        <P>(6) If a requester seeks expedited processing of a request, then the request must include a statement to that effect as is required by § 1070.17 of this subpart.</P>
+        <P>(d) <E T="03">Perfected requests; effect of request deficiencies.</E> For purposes of computing its deadline to respond to a request, the CFPB will deem itself to have received a request only if, and on the date that, it receives a request that contains substantially all of the information required by and that otherwise conforms with paragraphs (b) and (c) of this section. The CFPB need not accept a request, process a request, or be bound by any deadlines in this subpart for processing a request that fails to conform, in any material respect, to the requirements of paragraphs (b) and (c) of this section. If a request is deficient in any material respect, then the CFPB may return it to the requester and if it does so, it shall advise the requester in what respect the request is deficient, and what additional information is needed to respond to the request. The requester may then amend or resubmit the request. A determination by the CFPB that a request is deficient in any respect is not a denial of a request for records and such determinations are not subject to appeal. If a requester fails to respond to a CFPB notification that a request is deficient within thirty (30) days of the CFPB's notification, the CFPB will deem the request withdrawn.</P>
+        <P>(e) <E T="03">Requests by an individual for CFPB records pertaining to that individual.</E> An individual who wishes to inspect or obtain copies of records of the Bureau that pertain to that individual shall file a request in accordance with subpart E of these rules.</P>
+        <P>(f) <E T="03">Requests for CFPB records pertaining to another individual.</E> Where a request for records pertains to a third party, a requester may receive greater access by submitting either a notarized authorization signed by that individual or a declaration by that individual made in compliance with the requirements set forth in 28 U.S.C. 1746 authorizing disclosure of the records to the requester, or submits proof that the individual is deceased (e.g., a copy of a death certificate or an obituary). The CFPB may require a requester to supply additional information if necessary in order to verify that a particular individual has consented to disclosure.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1070.15</SECTNO>
+        <SUBJECT>Responsibility for responding to requests for CFPB records.</SUBJECT>
+        <P>(a) <E T="03">In general.</E> In determining which records are responsive to a request, the CFPB ordinarily will include only records in its possession as of the date the CFPB begins its search for them. If any other date is used, the CFPB shall inform the requester of that date.</P>
+        <P>(b) <E T="03">Authority to grant or deny requests.</E> The Chief FOIA Officer shall be authorized to grant or deny any request for a record of the CFPB.<PRTPAGE P="982"/>
+        </P>
+        <P>(c) <E T="03">Consultations and referrals.</E> (1) When a requested record has been created by an agency other than the CFPB, the CFPB shall refer the record to the originating agency for a direct response to the requester.</P>
+        <P>(2) When a FOIA request is received for a record created by the CFPB that includes information originated by another agency, the CFPB shall consult the originating agency for review and recommendation on disclosure. The CFPB shall not release any such records without prior consultation with the originating agency.</P>
+        <P>(d) <E T="03">Notice of referral.</E> Whenever the CFPB refers all or any part of the responsibility for responding to a request to another agency, it will notify the requester of the referral and inform the requester of the name of each agency to which the request has been referred, in whole or in part.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1070.16</SECTNO>
+        <SUBJECT>Timing of responses to requests for CFPB records.</SUBJECT>
+        <P>(a) <E T="03">In general.</E> Except as set forth in paragraphs (b) through (d) of this section, and § 1070.17 of this subpart, the CFPB shall respond to requests according to their order of receipt.</P>
+        <P>(b) <E T="03">Multitrack processing.</E> (1) The CFPB may establish separate tracks to process simple and complex requests. The CFPB may assign a request to the simple or complex track(s) based on the amount of work and/or time needed to process the request. The CFPB shall process requests in each track based on the date the request was perfected in accordance with § 1070.14(d).</P>
+        <P>(2) The CFPB may provide a requester in its complex track with an opportunity to limit the scope of the request to qualify for faster processing within the specified limits of the simple track(s).</P>
+        <P>(c) <E T="03">Time period for responding to requests for records.</E> Ordinarily, the CFPB shall have twenty (20) business days from when a request is received by the CFPB to determine whether to grant or deny a request for records. The twenty (20) business day time period set forth in this paragraph shall not be tolled by the CFPB except that the CFPB may:</P>
+        <P>(1) Make one reasonable demand to the requester for clarifying information about the request and toll the twenty (20) business day time period while it awaits the clarifying information; or</P>
+        <P>(2) Toll the twenty (20) business day time period while it awaits clarification from or addresses any dispute with the requester regarding the assessment of fees.</P>
+        <P>(d) <E T="03">Unusual circumstances.</E> (1) Where the CFPB determines that due to unusual circumstances it cannot respond either to a request within the time period set forth in paragraph (c) of this section or to an appeal within the time period set forth in § 1070.21 of this subpart, the CFPB may extend the applicable time periods by informing the requester in writing of the unusual circumstances and of the date by which the CFPB expects to complete its processing of the request or appeal. Any extension or extensions of time with respect to a request or an appeal shall not cumulatively total more than ten (10) business days. However, if the CFPB determines that it needs additional time beyond a ten (10) business day extension to process the request or appeal, then the CFPB shall notify the requester and provide the requester with an opportunity to limit the scope of the request or appeal or to arrange for an alternative time frame for processing the request or appeal or a modified request or appeal. The requester shall retain the right to define the desired scope of the request or appeal, as long as it meets the requirements contained in this subpart.</P>
+        <P>(2) As used in this paragraph, “unusual circumstances” means:</P>
+        <P>(i) The need to search for and collect the requested records from field facilities or other establishments that are separate from the office processing the request;</P>
+        <P>(ii) The need to search for, collect, and appropriately examine a voluminous amount of separate and distinct records which are demanded in a single request; or</P>
+        <P>(iii) The need for consultation, which shall be conducted with all practicable speed, with another agency having a substantial interest in the determination of the request, or among two or more CFPB offices having substantial subject matter interest therein.</P>
+      </SECTION>
+      <SECTION>
+        <PRTPAGE P="983"/>
+        <SECTNO>§ 1070.17</SECTNO>
+        <SUBJECT>Requests for expedited processing.</SUBJECT>
+        <P>(a) <E T="03">In general.</E> The CFPB shall process a request on an expedited basis whenever a requester demonstrates a compelling need for expedited processing in accordance with the requirements of this paragraph or in other cases that the CFPB deems appropriate.</P>
+        <P>(b) <E T="03">Form and content of a request for expedited processing.</E> A request for expedited processing shall be made as follows:</P>
+        <P>(1) A request for expedited processing shall be made in writing or by electronic means and submitted as part of a request for records in accordance with section 1070.14(b). When a request for records includes a request for expedited processing, the request shall be labeled “Expedited Processing Requested.”</P>
+        <P>(2) A request for expedited processing shall contain a statement that demonstrates a compelling need for the requester to obtain expedited processing of the requested records. A “compelling need” is defined as follows:</P>
+        <P>(i) Failure to obtain the requested records on an expedited basis could reasonably be expected to pose an imminent threat to the life or physical safety of an individual. The requester shall fully explain the circumstances warranting such an expected threat so that the CFPB may make a reasoned determination that a delay in obtaining the requested records could pose such a threat; or</P>
+        <P>(ii) With respect to a request made by a person primarily engaged in disseminating information, urgency to inform the public concerning actual or alleged Federal government activity. A person “primarily engaged in disseminating information” does not include individuals who are engaged only incidentally in the dissemination of information. The standard of “urgency to inform” requires that the records requested pertain to a matter of current exigency to the American public and that delaying a response to a request for records would compromise a significant recognized interest to and throughout the American general public. The requester must adequately explain the matter or activity and why the records sought are necessary to be provided on an expedited basis.</P>
+        <P>(3) The requester shall certify the written statement that purports to demonstrate a compelling need for expedited processing to be true and correct to the best of the requester's knowledge and belief. The certification must be in the form prescribed by 28 U.S.C. 1746: “I declare under penalty of perjury that the foregoing is true and correct to the best of my knowledge and belief. Executed on [date].” The requester shall mail or submit electronically a copy of such written certification to the Chief FOIA Officer as set forth in § 1070.14(b) of this subpart. The CFPB may waive this certification requirement in appropriate circumstances.</P>
+        <P>(c) <E T="03">Determinations of requests for expedited processing.</E> Within ten (10) calendar days of its receipt of a request for expedited processing, the CFPB shall decide whether to grant it and shall notify the requester of the determination in writing.</P>
+        <P>(d) <E T="03">Effect of granting requests for expedited processing.</E> If the CFPB grants a request for expedited processing, then the CFPB shall give the expedited request priority over non-expedited requests and shall process the expedited request as soon as practicable. The CFPB may assign expedited requests to their own simple and complex processing tracks based upon the amount of work and/or time needed to process them. Within each such track, an expedited request shall be processed in the order of its receipt.</P>
+        <P>(e) <E T="03">Appeals of denials of requests for expedited processing.</E> If the CFPB denies a request for expedited processing, then the requester shall have the right to submit an appeal of the denial determination in accordance with § 1070.21 of this subpart. The CFPB shall communicate this appeal right as part of its written notification to the requester denying expedited processing. The requester shall label its appeal request “Appeal for Expedited Processing.” The CFPB shall act expeditiously upon an appeal of a denial of a request for expedited processing.</P>
+      </SECTION>
+      <SECTION>
+        <PRTPAGE P="984"/>
+        <SECTNO>§ 1070.18</SECTNO>
+        <SUBJECT>Responses to requests for CFPB records.</SUBJECT>
+        <P>(a) <E T="03">Acknowledgements of requests.</E> Upon receipt of a perfected request, the CFPB will assign to the request a unique tracking number. The CFPB will send an acknowledgement letter to the requester by mail or email within ten (10) calendar days of receipt of the request. The acknowledgment letter will contain the following information:</P>
+        <P>(1) The applicable request tracking number;</P>
+        <P>(2) The date of receipt of the request, as determined in accordance with section 1070.14(d) of this subpart, as well as the date when the requester may expect a response;</P>
+        <P>(3) A brief statement identifying the subject matter of the request; and</P>
+        <P>(4) A confirmation, with respect to any fees that may apply to the request pursuant to § 1070.22 of this subpart, that the requester has sought a waiver or reduction in such fees, has agreed to pay any and all applicable fees, or has specified an upper limit (of not less than $25) that the requester is willing to pay in fees to process the request.</P>
+        <P>(b) <E T="03">Initial determination to grant or deny a request.</E> (1) The officer designated in § 1070.15(b) to this subpart, or his or her delegate, shall make initial determinations either to grant or to deny in whole or in part requests for records.</P>
+        <P>(2) If the request is granted in full or in part, and if the requester requests a copy of the records requested, then a copy of the records shall be mailed or emailed to the requester in the requested format, to the extent the records are readily producible in the requested format. The CFPB shall also send the requester a statement of the applicable fees, either at the time of the determination or shortly thereafter.</P>
+        <P>(3) In the case of a request for inspection, the requester shall be notified in writing of the determination, when and where the requested records may be inspected, and of the fees incurred in complying with the request. The CFPB shall then promptly make the records available for inspection at the time and place stated, in a manner that will not interfere with CFPB's operations and will not exclude other persons from making inspections. The requester shall not be permitted to remove the records from the room where inspection is made. If, after making inspection, the requester desires copies of all or a portion of the requested records, copies shall be furnished upon payment of the established fees prescribed by § 1070.22 of this subpart. Fees may be charged for search and review time as stated in § 1070.22 of this subpart.</P>
+        <P>(4) If it is determined that the request for records should be denied in whole or in part, the requester shall be notified by mail or by email. The letter of notification shall:</P>
+        <P>(i) State the exemptions relied upon in denying the request;</P>
+        <P>(ii) If technically feasible, indicate the amount of information deleted and the exemptions under which the deletion is made at the place in the record where such deletion is made (unless providing such indication would harm an interest protected by the exemption relied upon to deny such material);</P>
+        <P>(iii) Set forth the name and title or position of the responsible official;</P>
+        <P>(iv) Advise the requester of the right to administrative appeal in accordance with § 1070.21 of this subpart; and</P>
+        <P>(v) Specify the official or office to which such appeal shall be submitted.</P>
+
+        <P>(5) If it is determined, after a reasonable search for records, that no responsive records have been found to exist, the requester shall be notified in writing or by email. The notification shall also advise the requester of the right to administratively appeal the CFPB's determination that no responsive records exist (<E T="03">i.e.,</E> to challenge the adequacy of the CFPB's search for responsive records) in accordance with § 1070.21 of this subpart. The response shall specify the official or office to which the appeal shall be submitted for review.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1070.19</SECTNO>
+        <SUBJECT>Classified information.</SUBJECT>
+
+        <P>Whenever a request is made for a record containing information that another agency has classified, or which may be appropriate for classification by another agency under Executive Order 13526 or any other executive order concerning the classification of information, the CFPB shall refer the <PRTPAGE P="985"/>responsibility for responding to the request to the classifying or originating agency, as appropriate.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1070.20</SECTNO>
+        <SUBJECT>Requests for business information provided to the CFPB.</SUBJECT>
+        <P>(a) <E T="03">In general.</E> Business information provided to the CFPB by a business submitter shall not be disclosed pursuant to a FOIA request except in accordance with this section.</P>
+        <P>(b) <E T="03">Definitions.</E> For purposes of this section:</P>
+        <P>(1) <E T="03">Business information</E> means commercial or financial information obtained by the CFPB from a submitter that may be protected from disclosure under Exemption 4 of the FOIA, 5 U.S.C. 552(b)(4).</P>
+        <P>(2) <E T="03">Submitter</E> means any person from whom the CFPB obtains business information, directly or indirectly. The term includes, without limitation, corporations, State, local, and tribal governments, and foreign governments.</P>
+        <P>(c) <E T="03">Designation of business information.</E> A submitter of business information will use good-faith efforts to designate, by appropriate markings, either at the time of submission or at a reasonable time thereafter, any portions of its submission that it considers to be protected from disclosure under Exemption 4 of the FOIA. These designations will expire ten (10) years after the date of the submission unless the submitter requests otherwise and provides justification for, a longer designation period.</P>
+        <P>(d) <E T="03">Notice to submitters.</E> The CFPB shall provide a submitter with prompt written notice of receipt of a request or appeal encompassing its business information whenever required in accordance with paragraph (e) of this section. Such written notice shall either describe the exact nature of the business information requested or provide copies of the records or portions of records containing the business information. When notification of a voluminous number of submitters is required, notification may be made by posting or publishing the notice in a place reasonably likely to accomplish it.</P>
+        <P>(e) <E T="03">When notice is required.</E> (1) The CFPB shall provide a submitter with notice of receipt of a request or appeal whenever:</P>
+        <P>(i) The information has been designated in good faith by the submitter as information considered protected from disclosure under Exemption 4; or</P>
+        <P>(ii) The CFPB has reason to believe that the information may be protected from disclosure under Exemption 4.</P>
+        <P>(2) The notice requirements of this paragraph shall not apply if:</P>
+        <P>(i) The CFPB determines that the information is exempt under the FOIA;</P>
+        <P>(ii) The information lawfully has been published or otherwise made available to the public;</P>
+        <P>(iii) Disclosure of the information is required by statute (other than the FOIA) or by a regulation issued in accordance with the requirements of Executive Order 12600 (3 CFR, 1988 Comp., p. 235); or</P>
+        <P>(iv) The designation made by the submitter under paragraph (e)(1)(i) of this section appears obviously frivolous, except that, in such a case, the CFPB shall, within a reasonable time prior to a specified disclosure date, give the submitter written notice of any final decision to disclose the information.</P>
+        <P>(f) <E T="03">Opportunity to object to disclosure.</E> (1) Through the notice described in paragraph (d) of this section, the CFPB shall afford a submitter ten (10) business days from the date of the notice to provide the CFPB with a detailed statement of any objection to disclosure. Such statement shall specify all grounds for withholding any of the information under any exemption of the FOIA and, in the case of Exemption 4, shall demonstrate why the information is considered to be a trade secret or commercial or financial information that is privileged or confidential. In the event that a submitter fails to respond to the notice within the time specified in it, the submitter shall be considered to have no objection to disclosure of the information. Information provided by a submitter pursuant to this paragraph may itself be subject to disclosure under the FOIA.</P>
+
+        <P>(2) When notice is given to a submitter under this section, the requester shall be advised that such notice has been given to the submitter. The requester shall be further advised that a delay in responding to the request may be considered a denial of access to records and that the requester <PRTPAGE P="986"/>may proceed with an administrative appeal or seek judicial review, if appropriate. However, the requester will be invited to agree to a voluntary extension of time so that the CFPB may review the submitter's objection to disclose, if any.</P>
+        <P>(g) <E T="03">Notice of intent to disclose.</E> The CFPB shall consider carefully a submitter's objections and specific grounds for nondisclosure prior to determining whether to disclose business information. Whenever the CFPB decides to disclose business information over the objection of a submitter, the CFPB shall forward to the submitter a written notice which shall include:</P>
+        <P>(1) A statement of the reasons for which the submitter's disclosure objections were not sustained;</P>
+        <P>(2) A description of the business information to be disclosed; and</P>
+        <P>(3) A specified disclosure date which is not less than ten (10) business days after the notice of the final decision to release the requested information has been mailed to the submitter. Except as otherwise prohibited by law, a copy of the disclosure notice shall be forwarded to the requester at the same time.</P>
+        <P>(h) <E T="03">Notice to submitter of FOIA lawsuit.</E> Whenever a requester brings suit seeking to compel disclosure of business information, the CFPB shall promptly notify the submitter of that business information of the existence of the suit.</P>
+        <P>(i) <E T="03">Notice to requester of business information.</E> The CFPB shall notify a requester whenever it provides the submitter with notice and an opportunity to object to disclosure; whenever it notifies the submitter of its intent to disclose the requested information; and whenever a submitter files a lawsuit to prevent the disclosure of the information.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1070.21</SECTNO>
+        <SUBJECT>Administrative appeals.</SUBJECT>
+        <P>(a) <E T="03">Grounds for administrative appeals.</E> A requester may appeal an initial determination of the CFPB, including for the following reasons:</P>
+        <P>(1) To deny access to records in whole or in part (as provided in § 1070.18(b) of this subpart);</P>
+        <P>(2) To assign a particular fee category to the requestor (as provided in § 1070.22(b) of this subpart);</P>
+        <P>(3) To deny a request for a reduction or waiver of fees (as provided in § 1070.22(e) of this subpart);</P>
+        <P>(4) That no records exist that are responsive to the request (as provided in § 1070.18(b) of this subpart); or</P>
+        <P>(5) To deny a request for expedited processing (as provided in § 1070.17(e) of this subpart).</P>
+        <P>(b) <E T="03">Time limits for filing administrative appeals.</E> An appeal, other than an appeal of a denial of expedited processing, must be postmarked or submitted electronically on a date that is within forty-five (45) calendar days of the date of the initial determination or the date of the letter transmitting the last records released, whichever is later. An appeal of a denial of expedited processing must be made within ten (10) days of the date of the initial determination letter to deny expedited processing (see § 1070.17 of this subpart).</P>
+        <P>(c) <E T="03">Form and content of administrative appeals.</E> In order to ensure a timely response to an appeal, the appeal shall be made in writing or by electronic means as follows:</P>
+        <P>(1) If appeal is made in writing, it shall be addressed to and submitted to the officer specified in paragraph (e) of this section at the address set forth in § 1070.14(b) of this subpart. The appeal shall be labeled “Freedom of Information Act Appeal.”</P>
+
+        <P>(2) If an appeal is made by electronic means, it shall be addressed to the officer specified in paragraph (e) of this section and submitted as set forth on the CFPB's Web site, <E T="03">http://www.consumerfinance.gov.</E> The appeal shall be labeled “Freedom of Information Act Appeal.”</P>
+        <P>(3) The appeal shall set forth contact information for the requester, including, to the extent available, a mailing address, telephone number, or email address at which the CFPB may contact the requester regarding the appeal; and</P>
+
+        <P>(4) The appeal shall specify the applicable request tracking number, the date of the initial request, and the date of the letter of initial determination, and, where possible, enclose a copy of <PRTPAGE P="987"/>the initial request and the initial determination being appealed.</P>
+        <P>(d) <E T="03">Processing of administrative appeals.</E> Appeals will be stamped with the date of their receipt by the FOIA response office, and will be processed in the order of their receipt. The receipt of the appeal will be acknowledged by the CFPB and the requester will be advised of the date the appeal was received, the appeal tracking number, and the expected date of response.</P>
+        <P>(e) <E T="03">Determinations to grant or deny administrative appeals.</E> The General Counsel is authorized to and shall decide whether to affirm the initial determination (in whole or in part) or to reverse the initial determination (in whole or in part) and shall notify the requester of this decision in writing within twenty (20) business days after the date of receipt of the appeal, unless extended pursuant to § 1070.16(d) of this subpart.</P>
+        <P>(1) If it is decided that the appeal is to be denied (in whole or in part) the requester shall be:</P>
+        <P>(i) Notified in writing of the denial;</P>
+        <P>(ii) Notified of the reasons for the denial, including which of the FOIA exemptions were relied upon;</P>
+        <P>(iii) Notified of the name and title or position of the official responsible for the determination on appeal;</P>
+        <P>(iv) Provided with a statement that judicial review of the denial is available in the United States District Court for the judicial district in which the requester resides or has a principal place of business, the judicial district in which the requested records are located, or the District of Columbia in accordance with 5 U.S.C. 552(a)(4)(B); and</P>
+        <P>(v) Provided with notification that mediation services are available to the requester as a non-exclusive alternative to litigation through the Office of Government Information Services in accordance with 5 U.S.C. 552(h)(3).</P>
+        <P>(2) If the initial determination is reversed on appeal, the requester shall be so notified and the request shall be processed promptly in accordance with the decision on appeal.</P>
+        <P>(3) If the initial determination is remanded on appeal to the Chief FOIA Officer for further action, the requester shall be so notified and the request shall be processed in accordance with the decision on appeal. The remanded request shall be treated as a new request received by the CFPB as of the date when the General Counsel transmits the remand notification to the requester. The procedures and deadlines set forth in this subpart for processing, deciding, responding to, and filing administrative appeals of new FOIA requests shall apply to the remanded request.</P>
+        <P>(f) <E T="03">Adjudication of administrative appeals of requests in litigation.</E> An appeal ordinarily will not be adjudicated if the request becomes a matter of FOIA litigation.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1070.22</SECTNO>
+        <SUBJECT>Fees for processing requests for CFPB records.</SUBJECT>
+        <P>(a) <E T="03">In general.</E> The CFPB shall determine whether and to what extent to charge a requester fees for processing a FOIA request, for the services and in the amounts set forth in this paragraph, by determining an appropriate fee category for the requester (as set forth in paragraph (b) of this section) and then by charging the requester those fees applicable to the assigned category (as set forth in paragraph (c) of this section), unless circumstances exist (as described in paragraph (d) of this section) that render fees inapplicable or inadvisable or unless the requester has requested and the CFPB has granted a reduction in or waiver of fees (as set forth in paragraph (e) of this section).</P>
+        <P>(1) The CFPB shall charge a requester fees for the cost of copying or printing records at the rate of $0.10 per page.</P>
+        <P>(2) The CFPB shall charge a requester for all time spent by its employees searching for records that are responsive to a request. The CFPB shall charge the requester fees for search time as follows:</P>
+
+        <P>(i) The CFPB shall charge for search time at the salary rate(s) (basic pay plus sixteen (16) percent) of the employee(s) who conduct the search. However, the CFPB shall charge search fees at the rate of $9.00 per fifteen (15) minutes of search time whenever only administrative/clerical employees conduct a search and at the rate of $23.00 per fifteen (15) minutes of search time <PRTPAGE P="988"/>whenever only professional/executive employees conduct a search. Search charges shall also include transportation of employees and records necessary to the search at actual cost. Fees may be charged for search time even if the search does not yield any responsive records, or if records are exempt from disclosure.</P>
+        <P>(ii) The CFPB shall charge the requester for the actual direct costs of conducting an electronic records search, including computer search time, runs, and output. The CFPB shall also charge for time spent by computer operators or programmers (at the rates set forth in paragraph (a)(2)(i) of this section) who conduct or assist in the conduct of an electronic records search.</P>
+
+        <P>(3) The CFPB shall charge a requester for time spent by its employees examining responsive records to determine whether any portions of such record are exempt from disclosure, pursuant to the FOIA exemptions of 5 U.S.C. 552(b). The CFPB shall also charge a requester for time spent by its employees redacting any such exempt information from a record and preparing a record for release to the requester. The CFPB shall charge a requester for time spent reviewing records at the salary rate(s) (<E T="03">i.e.,</E> basic pay plus sixteen (16) percent) of the employees who conduct the review. However, the CFPB shall charge review fees at the rate of $9.00 per fifteen (15) minutes of search time whenever only administrative/clerical employees review records and at the rate of $23.00 per fifteen (15) minutes of search time whenever only professional/executive employees review records. Fees shall be charged for review time even if records ultimately are not disclosed.</P>
+        <P>(4) Fees for all services provided shall be charged whether or not copies are made available to the requester for inspection. However, no fee shall be charged for monitoring a requester's inspection of records.</P>
+        <P>(5) Other services and materials requested which are not covered by this part nor required by the FOIA are chargeable at the actual cost to the CFPB. This includes, but is not limited to:</P>
+        <P>(i) Certifying that records are true copies; or</P>
+        <P>(ii) Sending records by special methods such as express mail, etc.</P>
+        <P>(b) <E T="03">Categories of requesters.</E> (1) For purposes of assessing fees as set forth in this section, each requester shall be assigned to one of the following categories:</P>
+        <P>(i) <E T="03">Commercial user</E> refers to one who seeks information for a use or purpose that furthers the commercial, trade, or profit interests of the requester or the person on whose behalf the request is made, which can include furthering those interests through litigation. The CFPB may determine from the use specified in the request that the requester is a commercial user.</P>
+        <P>(ii) <E T="03">Educational institution</E> refers to a preschool, a public or private elementary or secondary school, an institution of graduate higher education, an institution of undergraduate higher education, an institution of professional education, and an institution of vocational education, which operates a program or programs of scholarly research.</P>
+        <P>(iii) <E T="03">Non-commercial scientific institution</E> refers to an institution that is not operated on a “commercial user” basis as that term is defined in paragraph (b)(2)(i) of this section, and which is operated solely for the purpose of conducting scientific research, the results of which are not intended to promote any particular product or industry.</P>
+        <P>(iv) <E T="03">Representative of the news media</E> refers to any person or entity that gathers information of potential interest to a segment of the public, uses its editorial skills to turn the raw materials into a distinct work, and distributes that work to an audience. In this paragraph, the term ‘news’ means information that is about current events or that would be of current interest to the public. Examples of news-media entities are television or radio stations broadcasting to the public at large and publishers of periodicals (but only if such entities qualify as disseminators of ‘news’) who make their products available for purchase by or subscription by or free distribution to the general public. Other examples of news <PRTPAGE P="989"/>media entities include online publications and Web sites that regularly deliver news content to the public. These examples are not all-inclusive. Moreover, as methods of news delivery evolve (for example, the adoption of the electronic dissemination of newspapers through telecommunications services), such alternative media shall be considered to be news-media entities. A freelance journalist shall be regarded as working for a news-media entity if the journalist can demonstrate a solid basis for expecting publication through that entity, whether or not the journalist is actually employed by the entity. A publication contract would present a solid basis for such an expectation; the CFPB may also consider the past publication record of the requester in making such a determination.</P>
+        <P>(v) <E T="03">“Other” requester</E> refers to a requester who does not fall within any of the previously described categories.</P>
+        <P>(2) Within twenty (20) calendar days of its receipt of a request, the CFPB shall make a determination as to the proper fee category to apply to a requester. The CFPB shall inform the requester of the determination in the request acknowledgment letter, or if no such letter is required, in writing. The CFPB shall base its determination upon a review of the requester's submission and the CFPB's own records. Where the CFPB has reasonable cause to doubt the use to which a requester will put the records sought, or where that use is not clear from the request itself, the CFPB should seek additional clarification before assigning the request to a specific category.</P>
+        <P>(3) If the CFPB assigns to a requester a fee category, then the requester shall have the right to submit an appeal of the CFPB's determination in accordance with § 1070.21 of this subpart. The CFPB shall communicate this appeal right as part of its written notification to the requester of an adverse fee category determination. The requester shall label its appeal request “Appeal of Fee Category Determination.”</P>
+        <P>(c) <E T="03">Fees applicable to each category of requester.</E> The following fee schedule applies uniformly throughout the CFPB to requests processed under the FOIA. Specific levels of fees are prescribed for each category of requester defined in paragraph (b) of this section.</P>
+        <P>(1) Commercial users shall be charged the full direct costs of searching for, reviewing, and duplicating the records they request. Moreover, when a request is received for disclosure that is primarily in the commercial interest of the requester, the CFPB is not required to consider a request for a waiver or reduction of fees based upon the assertion that disclosure would be in the public interest. The CFPB may recover the cost of searching for and reviewing records even if there is ultimately no disclosure of records or no records are located.</P>
+        <P>(2) Educational and non-commercial scientific institution requesters shall be charged only for the cost of duplicating the records they request, except that the CFPB shall provide the first one hundred (100) pages of duplication free of charge. To be eligible, requesters must show that the request is made under the auspices of a qualifying institution and that the records are not sought for a commercial use, but are sought in furtherance of scholarly (if the request is from an educational institution) or scientific (if the request is from a non-commercial scientific institution) research. These categories do not include requesters who want records for use in meeting individual academic research or study requirements.</P>
+        <P>(3) Representatives of the news media shall be charged only for the cost of duplicating the records they request, except that the CFPB shall provide them with the first one hundred (100) pages of duplication free of charge.</P>
+
+        <P>(4) Other requesters who do not fit any of the categories described above shall be charged the full direct cost of searching for and duplicating records that are responsive to the request, except that the CFPB shall provide the first one hundred (100) pages of duplication and the first two hours of search time free of charge. The CFPB may recover the cost of searching for records even if there is ultimately no disclosure of records, or no records are located. Requests from persons for records about themselves filed in the <PRTPAGE P="990"/>CFPB's systems of records shall continue to be treated under the fee provisions of the Privacy Act of 1974, 5 U.S.C. 552a, which permit fees only for duplication, after the first one hundred (100) pages are furnished free of charge.</P>
+        <P>(d) <E T="03">Other circumstances when fees are not charged.</E> Notwithstanding paragraphs (b) and (c) of this section, the CFPB may not charge a requester a fee for processing a FOIA request if any of the following applies:</P>
+        <P>(1) The cost of collecting a fee would be equal to or greater than the fee itself;</P>
+        <P>(2) The fees were waived or reduced in accordance with paragraph (e) of this section;</P>
+        <P>(3) If the CFPB fails to comply with any time limit under §§ 1070.15 or 1070.21 of this subpart, and no unusual circumstances (as that term is defined in § 1070.16(d)) or exceptional circumstances apply to the processing of the request, then the CFPB shall not assess search fees, or if the requester is a representative of the news media or an educational or noncommercial scientific institution, then the CFPB shall not assess duplication fees. The term “exceptional circumstances” does not include a delay that results from a predictable CFPB workload of requests, unless the CFPB demonstrates reasonable progress in reducing its backlog of pending requests; or</P>
+        <P>(4) If the CFPB determines, as a matter of administrative discretion, that waiving or reducing the fees would serve the interest of the United States Government.</P>
+        <P>(e) <E T="03">Waiver or reduction of fees.</E> (1) A requester shall be entitled to receive from the CFPB a waiver or reduction in the fees otherwise applicable to a FOIA request whenever the requester:</P>
+        <P>(i) Requests such waiver or reduction of fees in writing or by electronic means as part of the FOIA request;</P>
+        <P>(ii) Labels the request for waiver or reduction of fees “Fee Waiver or Reduction Requested” on the FOIA request; and</P>
+        <P>(iii) Demonstrates that the fee reduction or waiver request that a waiver or reduction of the fees is in the public interest because:</P>
+        <P>(A) Furnishing the information is likely to contribute significantly to public understanding of the operations or activities of the government; and</P>
+        <P>(B) Furnishing the information is not primarily in the commercial interest of the requester.</P>
+        <P>(2) To determine whether the requester has satisfied the requirements of paragraph (e)(1)(ii)(A), the CFPB shall consider the following factors:</P>
+        <P>(i) The subject of the requested records must concern identifiable operations or activities of the Federal government, with a connection that is direct and clear, and not remote or attenuated.</P>
+        <P>(ii) The disclosable portions of the requested records must be meaningfully informative about government operations or activities in order to be “likely to contribute” to an increased public understanding of those operations or activities. The disclosure of information that already is in the public domain, in either a duplicative or a substantially similar form, is not as likely to contribute to the public's understanding.</P>
+        <P>(iii) The disclosure must contribute to the understanding of a reasonably broad audience of persons interested in the subject, as opposed to the individual understanding of the requester. A requester's expertise in the subject area and ability and intention to effectively convey information to the public shall be considered. It shall be presumed that a representative of the news media will satisfy this consideration.</P>
+        <P>(iv) The public's understanding of the subject in question, as compared to the level of public understanding existing prior to the disclosure, must be enhanced by the disclosure to a significant extent.</P>
+        <P>(3) To determine whether the requester has satisfied the requirements of paragraph (e)(1)(ii)(B), the CFPB shall consider the following factors:</P>
+
+        <P>(i) The CFPB shall consider any commercial interest of the requester (with reference to the definition of “commercial user” in (b)(1)(i) of this section), or of any person on whose behalf the requester may be acting, that would be furthered by the requested disclosure. Requesters shall be given an opportunity in the administrative <PRTPAGE P="991"/>process to provide explanatory information regarding this consideration.</P>
+        <P>(ii) A fee waiver or reduction is justified where the public interest standard is satisfied and that public interest is greater in magnitude than that of any identified commercial interest in disclosure. The CFPB ordinarily shall presume that where a news media requester has satisfied the public interest standard, the public interest will be the interest primarily served by disclosure to that requester. Disclosure to data brokers or others who merely compile and market government information for direct economic return shall not be presumed to primarily serve the public interest.</P>
+        <P>(4) Where only some of the records to be released satisfy the requirements for a waiver of fees, a waiver shall be granted for those records.</P>
+        <P>(5) The CFPB shall decide whether to grant or deny a request to reduce or waive fees prior to processing a request. The CFPB shall notify the requester of the determination in writing.</P>
+        <P>(6) If the CFPB denies a request to reduce or waive fees, then the CFPB shall advise the requester, in the denial notification letter, that the requester may incur fees if the CFPB proceeds to process the request. The notification letter shall also advise the requester that the CFPB will not proceed to process the request further unless the requester, in writing, directs the CFPB to do so and either agrees to pay any fees that may apply to processing the request or specifies an upper limit (of not less than $25) that the requester is willing to pay to process the request. If the CFPB does not receive this written direction and agreement/specification within thirty (30) calendar days of the date of the denial notification letter, then the CFPB shall deem the request to be withdrawn.</P>
+        <P>(7) If the CFPB denies a request to reduce or waive fees, then the requester shall have the right to submit an appeal of the denial determination in accordance with section 1070.21 of this subpart. The CFPB shall communicate this appeal right as part of its written notification to the requester denying the fee reduction or waiver request. The requester should label its appeal request “Appeal for Fee Reduction/Waiver.”</P>
+        <P>(f) <E T="03">Advance notice and prepayment of fees.</E> (1) When the CFPB estimates the fees for processing a request to exceed the limit set by the requester, and that amount is less than $250, or the requester did not specify a limit and the amount is less than $250, the requester shall be notified of the estimated fees, and provided a breakdown of the fees attributable to search, review, and duplication, respectively. The requester must provide an agreement to pay the estimated fees; however, the requester shall also be given an opportunity to reformulate the request in an attempt to reduce fees.</P>
+        <P>(2) If the requester has failed to state a limit and the fees are estimated to exceed $250, the requester shall be notified of the estimated fees and provided a breakdown of the fees attributable to search, review, and duplication, respectively. The requester must pre-pay such amount prior to the processing of the request, or provide satisfactory assurance of full payment if the requester has a history of prompt payment of FOIA fees. The requester shall also be given an opportunity to reformulate the request in such a way as to lower the applicable fees.</P>
+        <P>(3) The CFPB reserves the right to request prepayment after a request is processed and before documents are released.</P>
+        <P>(4) If a requester has previously failed to pay a fee within thirty (30) calendar days of the date of the billing, the requester shall be required to pay the full amount owed plus any applicable interest and to make an advance payment of the full amount of the estimated fee before the CFPB begins to process a new request or the pending request.</P>
+        <P>(5) When the CFPB acts under paragraphs (f)(1) through (4) of this section, the statutory time limits of twenty (20) days (excluding Saturdays, Sundays, and legal public holidays) from receipt of initial requests or appeals, plus extensions of these time limits, shall begin only after fees have been paid, a written agreement to pay fees has been provided, or a request has been reformulated.</P>
+        <P>(g) <E T="03">Form of payment.</E> Payment may be tendered as set forth on the CFPB's <PRTPAGE P="992"/>Web site, <E T="03">http://www.consumerfinance.gov.</E>
+        </P>
+        <P>(h) <E T="03">Charging interest.</E> The CFPB may charge interest on any unpaid bill starting on the 31st day following the date of billing the requester. Interest charges will be assessed at the rate provided in 31 U.S.C. 3717 and will accrue from the date of the billing until payment is received by the CFPB. The CFPB will follow the provisions of the Debt Collection Act of 1982 (Pub. L. 97-365, 96 Stat. 1749), as amended, and its administrative procedures, including the use of consumer reporting agencies, collection agencies, and offset.</P>
+        <P>(i) <E T="03">Aggregating requests.</E> Where the CFPB reasonably believes that a requester or a group of requesters acting together is attempting to divide a request into a series of requests for the purpose of avoiding fees, the CFPB may aggregate those requests and charge accordingly. The CFPB may presume that multiple requests of this type made within a thirty (30) day period have been made in order to avoid fees. Where requests are separated by a longer period, the CFPB will aggregate them only where there exists a solid basis for determining that aggregation is warranted under all the circumstances involved. Multiple requests involving unrelated matters will not be aggregated.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1070.23</SECTNO>
+        <SUBJECT>Authority and responsibilities of the Chief FOIA Officer.</SUBJECT>
+        <P>(a) <E T="03">Chief FOIA Officer.</E> The Director authorizes the Chief FOIA Officer to act upon all requests for agency records, with the exception of determining appeals from the initial determinations of the Chief FOIA Officer, which will be decided by the General Counsel. The Chief FOIA officer shall, subject to the authority of the Director:</P>
+        <P>(1) Have CFPB-wide responsibility for efficient and appropriate compliance with the FOIA;</P>
+        <P>(2) Monitor implementation of the FOIA throughout the CFPB and keep the Director, the General Counsel, and the Attorney General appropriately informed of the CFPB's performance in implementing the FOIA;</P>
+        <P>(3) Recommend to the Director such adjustments to agency practices, policies, personnel and funding as may be necessary to improve the Chief FOIA Officer's implementation of the FOIA;</P>
+        <P>(4) Review and report to the Attorney General, through the Director, at such times and in such formats as the Attorney General may direct, on the CFPB's performance in implementing the FOIA;</P>
+        <P>(5) Facilitate public understanding of the purposes of the statutory exemptions of the FOIA by including concise descriptions of the exemptions in both the CFPB's handbook and the CFPB's annual report on the FOIA, and by providing an overview, where appropriate, of certain general categories of CFPB records to which those exemptions apply;</P>
+        <P>(6) Designate one or more FOIA Public Liaisons; and</P>
+        <P>(7) Maintain and update, as necessary and in accordance with the requirements of this subpart, the CFPB's FOIA Web site, including its e-FOIA Library.</P>
+        <P>(b) <E T="03">FOIA Public Liaisons.</E> FOIA Public Liaisons shall report to the Chief FOIA Officer and shall serve as supervisory officials to whom a requester can raise concerns about the service the requester has received from the CFPB's FOIA office, following an initial response from the FOIA office staff. FOIA Public Liaisons shall be responsible for assisting in reducing delays, increasing transparency and understanding of the status of requests, and assisting in the resolution of disputes.</P>
+      </SECTION>
+    </SUBPART>
+    <SUBPART>
+      <HD SOURCE="HED">Subpart C—Disclosure of CFPB Information in Connection With Legal Proceedings</HD>
+      <SECTION>
+        <SECTNO>§ 1070.30</SECTNO>
+        <SUBJECT>Purpose and scope; definitions.</SUBJECT>
+        <P>(a) This subpart sets forth the procedures to be followed with respect to:</P>
+        <P>(1) Service of summonses and complaints directed to the CFPB, the Director, or to any CFPB employee in connection with Federal or State litigation arising out of or involving the performance of official activities of the CFPB; and</P>
+
+        <P>(2) Subpoenas, court orders, or other requests or demands for any CFPB information, whether contained in the files of the CFPB or acquired by a <PRTPAGE P="993"/>CFPB employee as part of the performance of that employee's duties or by virtue of employee's official status.</P>
+        <P>(b) This subpart does not apply to requests for official information made pursuant to subparts B, D, and E of this part.</P>
+        <P>(c) This subpart does not apply to requests for information made in the course of adjudicating claims against the CFPB by CFPB employees (present or former) or applicants for CFPB employment for which jurisdiction resides with the U.S. Equal Employment Opportunity Commission, the U.S. Merit Systems Protection Board, the Office of Special Counsel, the Federal Labor Relations Authority, or their successor agencies, or a labor arbitrator operating under a collective bargaining agreement between the CFPB and a labor organization representing CFPB employees.</P>
+        <P>(d) This subpart is intended only to inform the public about CFPB procedures concerning the service of process and responses to subpoenas, summons, or other demands or requests for official information or action and is not intended to and does not create, and may not be relied upon to create any right or benefit, substantive or procedural, enforceable at law by a party against the CFPB or the United States.</P>
+        <P>(e) For purposes of this subpart:</P>
+        <P>(1) <E T="03">Demand</E> means a subpoena or order for official information, whether contained in CFPB records or through testimony, related to or for possible use in a legal proceeding.</P>
+        <P>(2) <E T="03">Legal proceeding</E> encompasses all pre-trial, trial, and post-trial stages of all judicial or administrative actions, hearings, investigations, or similar proceedings before courts, commissions, boards, grand juries, arbitrators, or other judicial or quasi-judicial bodies or tribunals, whether criminal, civil, or administrative in nature, and whether foreign or domestic. This phrase includes all stages of discovery as well as formal or informal requests by attorneys or others involved in legal proceedings.</P>
+        <P>(3) <E T="03">Official Information</E> means all information of any kind, however stored, that is in the custody and control of the CFPB or was acquired by CFPB employees, or former employees as part of their official duties or because of their official status while such individuals were employed by or served on behalf of the CFPB. Official information also includes any information acquired by CFPB employees or former employees while such individuals were engaged in matters related to consumer financial protection functions prior to the employees' transfer to the CFPB pursuant to Subtitle F of the Consumer Financial Protection Act of 2010.</P>
+        <P>(4) <E T="03">Request</E> means any request for official information in the form of testimony, affidavits, declarations, admissions, responses to interrogatories, document production, inspections, or formal or informal interviews, during the course of a legal proceeding, including pursuant to the Federal Rules of Civil Procedure, the Federal Rules of Criminal Procedure, or other applicable rules of procedure.</P>
+        <P>(5) <E T="03">Testimony</E> means a statement in any form, including personal appearances before a court or other legal tribunal, interviews, depositions, telephonic, televised, or videographed statements or any responses given during discovery or similar proceeding in the course of litigation.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1070.31</SECTNO>
+        <SUBJECT>Service of summonses and complaints.</SUBJECT>
+        <P>(a) Only the General Counsel is authorized to receive and accept summonses or complaints sought to be served upon the CFPB or CFPB employees sued in their official capacity. Such documents should be served upon the General Counsel, Consumer Financial Protection Bureau, 1700 G Street NW., Washington, DC 20552. This authorization for receipt shall in no way affect the requirements of service elsewhere provided in applicable rules and regulations.</P>
+
+        <P>(b) If, notwithstanding paragraph (a) of this section, any summons or complaint described in that paragraph is delivered to an employee of the CFPB, the employee shall decline to accept the proffered service and may notify the person attempting to make service of the regulations set forth herein. If, notwithstanding this instruction, an employee accepts service of a document described in paragraph (a) of this <PRTPAGE P="994"/>section, the employee shall immediately notify and deliver a copy of the summons and complaint to the General Counsel.</P>
+
+        <P>(c) When a CFPB employee is sued in an individual capacity for an act or omission occurring in connection with duties performed on behalf of the CFPB (whether or not the officer or employee is also sued in an official capacity), the employee by law is to be served personally with process. <E T="03">See</E> Fed. R. Civ. P. 4(i)(3). An employee sued in an individual capacity for an act or omission occurring in connection with duties performed on behalf of the CFPB shall immediately notify, and deliver a copy of the summons and complaint to, the General Counsel.</P>
+        <P>(d) The CFPB will only accept service of process for an employee sued in his or her official capacity. Documents for which the General Counsel accepts service in official capacity shall be stamped “Service Accepted in Official Capacity Only.” Acceptance of service shall not constitute an admission or waiver with respect to jurisdiction, propriety of service, improper venue, or any other defense in law or equity available under applicable laws or rules.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1070.32</SECTNO>
+        <SUBJECT>Service of subpoenas, court orders, and other demands for CFPB information or action.</SUBJECT>
+        <P>(a) Except in cases in which the CFPB is represented by legal counsel who have entered an appearance or otherwise given notice of their representation, only the General Counsel is authorized to receive and accept subpoenas or other demands or requests directed to the CFPB or its employees, whether civil or criminal in nature, for:</P>
+        <P>(1) Records of the CFPB;</P>
+        <P>(2) Official information including, but not limited to, testimony, affidavits, declarations, admissions, responses to interrogatories, or informal statements, relating to material contained in the files of the CFPB or which any CFPB employee acquired in the course and scope of the performance of his or her official duties;</P>
+        <P>(3) Garnishment or attachment of compensation of current or former employees; or</P>
+        <P>(4) The performance or non-performance of any official CFPB duty.</P>
+        <P>(b) Documents described in paragraph (a) of this section should be served upon the General Counsel, Consumer Financial Protection Bureau, 1700 G Street NW., Washington, DC 20552. Service must be effected as provided in applicable rules and regulations governing service in Federal judicial and administrative proceedings. Acceptance of such documents by the General Counsel does not constitute a waiver of any defense that might otherwise exist with respect to service under the Federal Rules of Civil or Criminal Procedure or other applicable laws or regulations.</P>
+        <P>(c) In the event that any demand or request described in paragraph (a) of this section is sought to be delivered to a CFPB employee other than in the manner prescribed in paragraph (b) of this section, such employee shall decline service and direct the server of process to these regulations. If the demand or request is nonetheless delivered to the employee, the employee shall immediately notify, and deliver a copy of that document to, the General Counsel.</P>
+        <P>(d) Except as otherwise provided in this subpart, the CFPB is not an agent for service for, or otherwise authorized to accept on behalf of its employees, any subpoenas, orders, or other demands or requests, which are not related to the employees' official duties except upon the express, written authorization of the individual CFPB employee to whom such demand or request is directed.</P>
+        <P>(e) Copies of any subpoenas, orders, or other demands or requests that are directed to former employees of the CFPB in connection with the performance of official CFPB duties shall also be served upon the General Counsel. The CFPB shall not, however, serve as an agent for service for the former employee, nor is the CFPB otherwise authorized to accept service on behalf of its former employees. If the demand involves their official duties as CFPB employees, former employees who receive subpoenas, orders, or similar compulsory process should also notify, and deliver a copy of the document to, the General Counsel.</P>
+      </SECTION>
+      <SECTION>
+        <PRTPAGE P="995"/>
+        <SECTNO>§ 1070.33</SECTNO>
+        <SUBJECT>Testimony and production of documents prohibited unless approved by the General Counsel.</SUBJECT>
+        <P>(a) Unless authorized by the General Counsel, no employee or former employee of the CFPB shall, in response to a demand or a request provide oral or written testimony by deposition, declaration, affidavit, or otherwise concerning any official information.</P>
+        <P>(b) Unless authorized by the General Counsel, no employee or former employee shall, in response to a demand or request, produce any document or any material acquired as part of the performance of that employee's duties or by virtue of that employee's official status.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1070.34</SECTNO>
+        <SUBJECT>Procedure when testimony or production of documents is sought; general.</SUBJECT>
+        <P>(a) If, as part of a proceeding in which the United States or the CFPB is not a party, official information is sought through a demand for testimony, CFPB records, or other material, the party seeking such information must (except as otherwise required by Federal law or authorized by the General Counsel) set forth in writing:</P>
+        <P>(1) The title and forum of the proceeding, if applicable;</P>
+        <P>(2) A detailed description of the nature and relevance of the official information sought;</P>
+        <P>(3) A showing that other evidence reasonably suited to the requester's needs is not available from any other source; and</P>
+        <P>(4) If testimony is requested, the intended use of the testimony, a general summary of the desired testimony, and a showing that no document could be provided and used in lieu of testimony.</P>
+        <P>(b) To the extent he or she deems necessary or appropriate, the General Counsel may also require from the party seeking such information a plan of all reasonably foreseeable demands, including but not limited to the names of all employees and former employees from whom discovery will be sought, areas of inquiry, expected duration of proceedings requiring oral testimony, identification of potentially relevant documents, or any other information deemed necessary to make a determination. The purpose of this requirement is to assist the General Counsel in making an informed decision regarding whether testimony or the production of documents or material should be authorized.</P>
+        <P>(c) The General Counsel may consult or negotiate with an attorney for a party, or the party if not represented by an attorney, to refine or limit a request or demand so that compliance is less burdensome.</P>
+        <P>(d) The General Counsel will notify the CFPB employee and such other persons as circumstances may warrant of his or her decision regarding compliance with the request or demand.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1070.35</SECTNO>
+        <SUBJECT>Procedure when response to demand is required prior to receiving instructions.</SUBJECT>
+        <P>(a) If a response to a demand described in section 1070.34 of this subpart is required before the General Counsel renders a decision, the CFPB will request that the appropriate CFPB attorney or an attorney of the Department of Justice, as appropriate, take steps to stay, postpone, or obtain relief from the demand pending decision. If necessary, the attorney will:</P>
+        <P>(1) Appear with the employee upon whom the demand has been made;</P>
+        <P>(2) Furnish the court or other authority with a copy of the regulations contained in this subpart;</P>
+        <P>(3) Inform the court or other authority that the demand has been, or is being, as the case may be, referred for the prompt consideration of the appropriate CFPB official; and</P>
+        <P>(4) Respectfully request the court or authority to stay the demand pending receipt of the requested instructions.</P>
+        <P>(b) In the event that an immediate demand for production or disclosure is made in circumstances which would preclude the proper designation or appearance of an attorney of the CFPB or the Department of Justice on the employee's behalf, the employee, if necessary, shall respectfully request from the demanding court or authority a reasonable stay of proceedings for the purpose of obtaining instructions from the General Counsel.</P>
+      </SECTION>
+      <SECTION>
+        <PRTPAGE P="996"/>
+        <SECTNO>§ 1070.36</SECTNO>
+        <SUBJECT>Procedure in the event of an adverse ruling.</SUBJECT>
+
+        <P>If a stay or, or other relief from, the effect of a demand made pursuant to sections 1070.34 and 1070.35 of this subpart is declined or not obtained, or if the court or other judicial or quasi-judicial authority declines to stay the effect of the demand made pursuant to sections 1070.34 and 1070.35 of this subpart, or if the court or other authority rules that the demand must be complied with irrespective of the General Counsel's instructions not to produce the material or disclose the information sought, the employee upon whom the demand has been made shall respectfully decline to comply with the demand citing this subpart and <E T="03">United States ex rel. Touhy</E> v. <E T="03">Ragen,</E> 340 U.S. 462 (1951).</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1070.37</SECTNO>
+        <SUBJECT>Considerations in determining whether the CFPB will comply with a demand or request.</SUBJECT>
+        <P>(a) In deciding whether to comply with a demand or request, CFPB officials and attorneys shall consider, among other pertinent considerations:</P>
+        <P>(1) Whether such compliance would be unduly burdensome or otherwise inappropriate under the applicable rules of discovery or the rules of procedure governing the case or matter in which the demand arose;</P>
+        <P>(2) Whether the number of similar requests would have a cumulative effect on the expenditure of CFPB resources;</P>
+        <P>(3) Whether compliance is appropriate under the relevant substantive law concerning privilege or disclosure of information;</P>
+        <P>(4) The public interest;</P>
+        <P>(5) The need to conserve the time of CFPB employees for the conduct of official business;</P>
+        <P>(6) The need to avoid spending time and money of the United States for private purposes;</P>
+        <P>(7) The need to maintain impartiality between private litigants in cases where a substantial government interest is not implicated;</P>
+        <P>(8) Whether compliance would have an adverse effect on performance by the CFPB of its mission and duties;</P>
+        <P>(9) The need to avoid involving the CFPB in controversial issues not related to its mission;</P>
+        <P>(10) Compliance would interfere with supervisory examinations, compromise the CFPB's supervisory functions or programs, or undermine public confidence in supervised financial institutions; and</P>
+        <P>(11) Compliance would interfere with the CFPB's ability to monitor for risks to consumers in the offering or provision of consumer financial products and services.</P>
+        <P>(b) Among those demands and requests in response to which compliance will not ordinarily be authorized are those with respect to which any of the following factors, inter alia, exist:</P>
+        <P>(1) Compliance would violate a statute or applicable rule of procedure;</P>
+        <P>(2) Compliance would violate a specific regulation or Executive order;</P>
+        <P>(3) Compliance would reveal information properly classified in the interest of national security;</P>
+        <P>(4) Compliance would reveal confidential or privileged commercial or financial information or trade secrets without the owner's consent;</P>
+        <P>(5) Compliance would compromise the integrity of the deliberative processes of the CFPB;</P>
+        <P>(6) Compliance would not be appropriate or necessary under the relevant substantive law governing privilege;</P>
+        <P>(7) Compliance would reveal confidential information; or</P>
+        <P>(8) Compliance would interfere with ongoing investigations or enforcement proceedings, compromise constitutional rights, or reveal the identity of a confidential informant.</P>
+        <P>(c) The CFPB may condition disclosure of official information pursuant to a request or demand on the entry of an appropriate protective order.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1070.38</SECTNO>
+        <SUBJECT>Prohibition on providing expert or opinion testimony.</SUBJECT>
+
+        <P>(a) Except as provided in this section, and subject to 5 CFR 2635.805, CFPB employees or former employees shall not provide opinion or expert testimony based upon information which they acquired in the scope and performance of their official CFPB duties, except on behalf of the CFPB or the United States or a party represented by the CFPB, or the Department of Justice, as appropriate.<PRTPAGE P="997"/>
+        </P>
+        <P>(b) Any expert or opinion testimony by a former employee of the CFPB shall be excepted from paragraph (a) of this section where the testimony involves only general expertise gained while employed at the CFPB.</P>
+        <P>(c) Upon a showing by the requestor of exceptional need or unique circumstances and that the anticipated testimony will not be adverse to the interests of the United States, the General Counsel may, consistent with 5 CFR 2635.805, exercise his or her discretion to grant special, written authorization for CFPB employees, or former employees, to appear and testify as expert witnesses at no expense to the United States.</P>
+        <P>(d) If, despite the final determination of the General Counsel, a court of competent jurisdiction or other appropriate authority orders the appearance and expert or opinion testimony of a current or former CFPB employee, that person shall immediately inform the General Counsel of such order. If the General Counsel determines that no further legal review of or challenge to the court's order will be made, the CFPB employee, or former employee, shall comply with the order. If so directed by the General Counsel, however, the employee, or former employee, shall respectfully decline to testify.</P>
+      </SECTION>
+    </SUBPART>
+    <SUBPART>
+      <HD SOURCE="HED">Subpart D—Confidential Information</HD>
+      <SECTION>
+        <SECTNO>§ 1070.40</SECTNO>
+        <SUBJECT>Purpose and scope.</SUBJECT>
+        <P>This subpart does not apply to requests for official information made pursuant to subparts B, C, or E of this part.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1070.41</SECTNO>
+        <SUBJECT>Non-disclosure of confidential information.</SUBJECT>
+        <P>(a) <E T="03">Non-disclosure.</E> Except as required by law or as provided in this part, no current or former employee or contractor or consultant of the CFPB, or any other person in possession of confidential information, shall disclose such confidential information by any means (including written or oral communications) or in any format (including paper and electronic formats), to:</P>
+        <P>(1) Any person who is not an employee, contractor, or consultant of the CFPB; or</P>
+        <P>(2) Any CFPB employee, contractor, or consultant when the disclosure of such confidential information to that employee, contractor, or consultant is not relevant to the performance of the employee's, contractor's, or consultant's assigned duties.</P>
+        <P>(b) <E T="03">Disclosures to contractors and consultants.</E> CFPB contractors or consultants may receive confidential information only if such contractors or consultants certify in writing to treat such confidential information in accordance with these rules, Federal laws and regulations that apply to Federal agencies for the protection of the confidentiality of personally identifiable information and for data security and integrity, as well as any additional conditions or limitations that the CFPB may impose.</P>
+        <P>(c) <E T="03">Disclosure of materials derived from confidential information.</E> Nothing in this subpart shall limit the discretion of the CFPB to disclose materials that it derives from or creates using confidential information to the extent that such materials do not identify, either directly or indirectly, any particular person to whom the confidential information pertains.</P>
+        <P>(d) <E T="03">Disclosability of confidential information provided to the CFPB by other agencies.</E> Nothing in this subpart requires or authorizes the CFPB to disclose confidential information that another agency has provided to the CFPB to the extent that such disclosure contravenes applicable law or the terms of any agreement that exists between the CFPB and the agency to govern the CFPB's treatment of information that the agency provides to the CFPB.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1070.42</SECTNO>
+        <SUBJECT>Disclosure of confidential supervisory information to supervised financial institutions and their affiliates and by supervised financial institutions and their affiliates to others.</SUBJECT>
+        <P>(a) <E T="03">Discretionary disclosure of confidential supervisory information to supervised financial institutions and their affiliates.</E> The CFPB may, in its discretion, and <PRTPAGE P="998"/>to the extent consistent with applicable law, disclose confidential supervisory information concerning a supervised financial institution or its service providers to that supervised financial institution or to its affiliates.</P>
+        <P>(b) <E T="03">Disclosure of confidential supervisory information by a supervised financial institution or its affiliates.</E> Unless directed otherwise by the Associate Director for Supervision, Enforcement, and Fair Lending or by his or her delegee:</P>
+        <P>(1) Any supervised financial institution lawfully in possession of confidential supervisory information of the CFPB pursuant to this section may disclose such information, or portions thereof, to its affiliates and to the following individuals to the extent that the disclosure of such confidential supervisory information is relevant to the performance of such individuals' assigned duties:</P>
+        <P>(i) The directors, officers, trustees, members, general partners, or employees of the supervised financial institution; and</P>
+        <P>(ii) The directors, officers, trustees, members, general partners, or employees of the affiliates of the supervised financial institution.</P>
+        <P>(2) Any supervised financial institution or affiliate thereof that is lawfully in possession of confidential supervisory information of the CFPB pursuant to this section may disclose such information, or portions thereof, to:</P>
+        <P>(i) Its certified public accountant, legal counsel, contractor, consultant, or service provider; or</P>
+        <P>(ii) Another person, with the prior written approval of the Associate Director for Supervision, Enforcement, and Fair Lending or his or her delegee.</P>
+        <P>(3) Where a supervised financial institution or its affiliate discloses confidential supervisory information pursuant to this paragraph (b) of this section:</P>
+        <P>(i) The recipient of such confidential supervisory information shall not, without the prior written approval of the Associate Director for Supervision, Enforcement, and Fair Lending or his or her delegee, utilize, make, or retain copies of, or disclose confidential supervisory information for any purpose, except as is necessary to provide advice or services to the supervised financial institution or its affiliate; and</P>
+        <P>(ii) The supervised financial institution or affiliate disclosing the confidential supervisory information shall take reasonable steps to ensure that the recipient complies with paragraph (b)(3)(i) of this section.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1070.43</SECTNO>
+        <SUBJECT>Disclosure of confidential information to law enforcement agencies and other government agencies.</SUBJECT>
+        <P>(a) <E T="03">Required disclosure of confidential information to government agencies.</E> The CFPB shall:</P>
+        <P>(1) Disclose a draft of a report of examination of a supervised financial institution prior to its finalization, in accordance with 12 U.S.C. 5515(e)(1)(C), and disclose a final report of examination, including any and all revisions made to such a report, to a Federal or State agency with jurisdiction over that supervised financial institution, provided that the CFPB receives from the agency reasonable assurances as to the confidentiality of the information disclosed; and</P>
+        <P>(2) Disclose confidential consumer complaint information to a Federal or State agency to facilitate preparation of reports to Congress required by 12 U.S.C. 5493(b)(3)(C) and to facilitate the CFPB's supervision and enforcement activities and its monitoring of the market for consumer financial products and services, provided that the agency shall first give written assurance to the CFPB that it will maintain such information in confidence, including in a manner that conforms to the standards that apply to Federal agencies for the protection of the confidentiality of personally identifiable information and for data security and integrity.</P>
+        <P>(b) <E T="03">Discretionary disclosure of confidential information to government agencies.</E> (1) Upon receipt of a written request that contains the information required by paragraph (b)(2) of this section, the CFPB may, in its sole discretion, disclose confidential information to a Federal or State agency to the extent that the disclosure of the information is relevant to the exercise of the agency's statutory or regulatory authority or, with respect to the disclosure of <PRTPAGE P="999"/>confidential supervisory information, to a Federal or State agency having jurisdiction over a supervised financial institution.</P>
+        <P>(2) To obtain access to confidential information pursuant to paragraph (b)(1) of this section, an authorized officer or employee of the agency shall submit a written request to the General Counsel, who shall act upon the request in consultation with the CFPB's Associate Director for Supervision, Enforcement, and Fair Lending or other appropriate CFPB personnel. The request shall include the following:</P>
+        <P>(i) A description of the particular information, kinds of information, and where possible, the particular documents to which access is sought;</P>
+        <P>(ii) A statement of the purpose for which the information will be used;</P>
+        <P>(iii) A statement certifying and identifying the agency's legal authority for requesting the documents;</P>
+        <P>(iv) A statement certifying and identifying the agency's legal authority for protecting the requested information from public disclosure; and</P>
+        <P>(v) A certification that the agency will maintain the requested confidential information in confidence, including in a manner that conforms to the standards that apply to Federal agencies for the protection of the confidentiality of personally identifiable information and for data security and integrity, as well as any additional conditions or limitations that the CFPB may impose.</P>
+        <P>(c) <E T="03">State requests for information other than confidential information.</E> A request or demand by a State agency for information or records of the CFPB other than confidential information shall be made and considered in accordance with the rules set forth elsewhere in this part.</P>
+        <P>(d) <E T="03">Negotiation of standing requests.</E> The CFPB may negotiate terms governing the exchange of confidential information with Federal or State agencies on a standing basis, as appropriate.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1070.44</SECTNO>
+        <SUBJECT>Disclosure of confidential consumer complaint information.</SUBJECT>
+        <P>Nothing in this part shall limit the discretion of the CFPB, to the extent permitted by law, to disclose confidential consumer complaint information as it deems necessary to investigate, resolve, or otherwise respond to consumer complaints or inquiries concerning financial institutions or consumer financial products and services.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1070.45</SECTNO>
+        <SUBJECT>Affirmative disclosure of confidential information.</SUBJECT>
+        <P>(a) The CFPB may disclose confidential investigative information and other confidential information, in accordance with applicable law, as follows:</P>
+        <P>(1) To a CFPB employee, as that term is defined in § 1070.2 of this part and in accordance with § 1070.41 of this subpart;</P>
+        <P>(2) To either House of the Congress or to an appropriate committee or subcommittee of the Congress, as set forth in 12 U.S.C. 5562(d)(2), provided that, upon the receipt by the CFPB of a request from the Congress for confidential information that a financial institution submitted to the CFPB along with a claim that such information consists of a trade secret or privileged or confidential commercial or financial information, or confidential supervisory information, the CFPB shall notify the financial institution in writing of its receipt of the request and provide the institution with a copy of the request;</P>
+        <P>(3) In investigational hearings and witness interviews, as is reasonably necessary, at the discretion of the CFPB;</P>
+
+        <P>(4) In an administrative or court proceeding to which the CFPB is a party. In the case of confidential investigatory material that contains any trade secret or privileged or confidential commercial or financial information, as claimed by designation by the submitter of such material, or confidential supervisory information, the submitter may seek an appropriate protective or <E T="03">in camera</E> order prior to disclosure of such material in a proceeding;</P>
+        <P>(5) To law enforcement agencies and other government agencies in summary form to the extent necessary to notify such agencies of potential violations of laws subject to their jurisdiction; or</P>
+        <P>(6) As required under any other applicable law.</P>
+      </SECTION>
+      <SECTION>
+        <PRTPAGE P="1000"/>
+        <SECTNO>§ 1070.46</SECTNO>
+        <SUBJECT>Other disclosures of confidential information.</SUBJECT>
+        <P>(a) To the extent permitted by law and as authorized by the Director in writing, the CFPB may disclose confidential information other than as set forth in this subpart.</P>
+        <P>(b) Prior to disclosing confidential information pursuant to paragraph (a) of this section, the CFPB may, as it deems appropriate under the circumstances, provide written notice to the person to whom the confidential information pertains that the CFPB intends to disclose its confidential information in accordance with this section.</P>
+        <P>(c) The authority of the Director to disclose confidential information pursuant to paragraph (a) shall not be delegated. However, a person authorized to perform the functions of the Director in accordance with law may exercise the authority of the Director as set forth in this section.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1070.47</SECTNO>
+        <SUBJECT>Other rules regarding the disclosure of confidential information.</SUBJECT>
+        <P>(a) <E T="03">Further disclosure prohibited.</E> (1) All confidential information made available under this subpart shall remain the property of the CFPB, unless the General Counsel provides otherwise in writing.</P>
+        <P>(2) Except as set forth in this subpart, no supervised financial institution, Federal or State agency, any officer, director, employee or agent thereof, or any other person to whom the confidential information is made available under this subpart, may further disclose such confidential information without the prior written permission of the General Counsel.</P>
+        <P>(3) A supervised financial institution, Federal or State agency, any officer, director, employee or agent thereof, or any other person to whom the CFPB's confidential information is made available under this subpart, that receives from a third party a legally enforceable demand or request for such confidential information (including but not limited to, a subpoena or discovery request or a request made pursuant to the Freedom of Information Act, 5 U.S.C. 552, the Privacy Act of 1974, 5 U.S.C. 552a, or any State analogue to such statutes) should:</P>
+        <P>(i) Inform the General Counsel of such request or demand in writing and provide the General Counsel with a copy of such request or demand as soon as practicable after receiving it;</P>
+        <P>(ii) To the extent permitted by applicable law, advise the requester that:</P>
+        <P>(A) The confidential information sought may not be disclosed insofar as it is the property of the CFPB; and</P>
+        <P>(B) Any request for the disclosure of such confidential information is properly directed to the CFPB pursuant to its regulations set forth in this part.</P>
+        <P>(iii) Consult with the General Counsel before complying with the request or demand, and to the extent applicable:</P>
+        <P>(A) Give the CFPB a reasonable opportunity to respond to the demand or request;</P>
+        <P>(B) Assert all reasonable and appropriate legal exemptions or privileges that the CFPB may request be asserted on its behalf; and</P>
+        <P>(C) Consent to a motion by the CFPB to intervene in any action for the purpose of asserting and preserving any claims of confidentiality with respect to any confidential information.</P>
+        <P>(4) Nothing in this section shall prevent a supervised financial institution, Federal or State agency, any officer, director, employee or agent thereof, or any other person to whom the information is made available under this subpart from complying with a legally valid and enforceable order of a court of competent jurisdiction compelling production of the CFPB's confidential information, or, if compliance is deemed compulsory, with a request or demand from either House of the Congress or a duly authorized committee of the Congress. To the extent that compulsory disclosure of confidential information occurs as set forth in this paragraph, the producing party shall use its best efforts to ensure that the requestor secures an appropriate protective order or, if the requestor is a legislative body, use its best efforts to obtain the commitment or agreement of the legislative body that it will maintain the confidentiality of the confidential information.</P>
+
+        <P>(5) No person obtaining access to confidential information pursuant to this subpart may make a personal copy of <PRTPAGE P="1001"/>any such information, and no person may remove confidential information from the premises of the institution or agency in possession of such information except as permitted under this subpart or by the CFPB.</P>
+        <P>(b) <E T="03">Additional conditions and limitations.</E> The CFPB may impose any additional conditions or limitations on disclosure or use under this subpart that it determines are necessary.</P>
+        <P>(c) <E T="03">Non-waiver</E>—(1) <E T="03">In general.</E> The CFPB shall not be deemed to have waived any privilege applicable to any information by transferring that information to, or permitting that information to be used by, any Federal or State agency.</P>
+        <P>(2) <E T="03">Rule of construction.</E> Paragraph (c)(1) of this section shall not be construed as implying that any person waives any privilege applicable to any information because paragraph (c)(1) of this section does not apply to the transfer or use of that information.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1070.48</SECTNO>
+        <SUBJECT>Privileges not affected by disclosure to the CFPB.</SUBJECT>
+        <P>(a) <E T="03">In General.</E> The submission by any person of any information to the CFPB for any purpose in the course of any supervisory or regulatory process of the CFPB shall not be construed as waiving, destroying, or otherwise affecting any privilege such person may claim with respect to such information under Federal or State law as to any person or entity other than the CFPB.</P>
+        <P>(b) <E T="03">Rule of Construction.</E> Paragraph (a) of this section shall not be construed as implying or establishing that—</P>
+        <P>(1) Any person waives any privilege applicable to information that is submitted or transferred under circumstances to which paragraph (a) of this section does not apply; or</P>
+        <P>(2) Any person would waive any privilege applicable to any information by submitting the information to the CFPB but for this section.</P>
+      </SECTION>
+    </SUBPART>
+    <SUBPART>
+      <HD SOURCE="HED">Subpart E—The Privacy Act</HD>
+      <SECTION>
+        <SECTNO>§ 1070.50</SECTNO>
+        <SUBJECT>Purpose and scope; definitions.</SUBJECT>
+        <P>(a) This subpart implements the provisions of the Privacy Act of 1974, 5 U.S.C. 552a (the Privacy Act). The regulations apply to all records maintained by the CFPB and which are retrieved by an individual's name or personal identifier. The regulations set forth the procedures for requests for access to, or amendment of, records concerning individuals that are contained in systems of records maintained by the CFPB. These regulations should be read in conjunction with the Privacy Act, which provides additional information about this topic.</P>
+        <P>(b) For purposes of this subpart, the following definitions apply:</P>
+        <P>(1) The term <E T="03">Chief Privacy Officer</E> means the Chief Information Officer of the CFPB or any CFPB employee to whom the Chief Information Officer has delegated authority to act under this part;</P>
+        <P>(2) The term <E T="03">guardian</E> means the parent of a minor, or the legal guardian of any individual who has been declared to be incompetent due to physical or mental incapacity or age by a court of competent jurisdiction;</P>
+        <P>(3) <E T="03">Individual</E> means a citizen of the United States or an alien lawfully admitted for permanent residence;</P>
+        <P>(4) <E T="03">Maintain</E> includes maintain, collect, use, or disseminate;</P>
+        <P>(5) <E T="03">Record</E> means any item, collection, or grouping of information about an individual that is maintained by an agency, including, but not limited to, his education, financial transactions, medical history, and criminal or employment history and that contains his name or the identifying number, symbol, or other identifying particular assigned to the individual, such as a finger or voiceprint or a photograph;</P>
+        <P>(6) <E T="03">Routine use</E> means the disclosure of a record that is compatible with the purpose for which it was collected;</P>
+        <P>(7) <E T="03">System of records</E> means a group of any records under the control of an agency from which information is retrieved by the name of the individual or by some identifying number, symbol, or other identifying particular assigned to the individual; and</P>
+        <P>(8) <E T="03">Statistical record</E> means a record in a system of records maintained for statistical research or reporting purposes only and not used in whole or in part in making any determination about an identifiable individual, except as provided by 13 U.S.C. 8.</P>
+      </SECTION>
+      <SECTION>
+        <PRTPAGE P="1002"/>
+        <SECTNO>§ 1070.51</SECTNO>
+        <SUBJECT>Authority and responsibilities of the Chief Privacy Officer.</SUBJECT>
+        <P>The Chief Privacy Officer is authorized to:</P>
+        <P>(a) Respond to requests for access to, accounting of, or amendment of records contained in a system of records maintained by the CFPB;</P>
+        <P>(b) Approve the publication of new systems of records and amend existing systems of record; and</P>
+        <P>(c) File any necessary reports related to the Privacy Act.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1070.52</SECTNO>
+        <SUBJECT>Fees.</SUBJECT>
+        <P>(a) <E T="03">Copies of records.</E> The CFPB shall provide the requester with copies of records requested pursuant to § 1070.53 of this subpart at the same cost charged for duplication of records under § 1070.22 of this part.</P>
+        <P>(b) <E T="03">No fee.</E> The CFPB will not charge a fee if:</P>
+        <P>(1) Total charges associated with a request are less than $5, or</P>
+        <P>(2) The requester is a CFPB employee or former employee, or an applicant for employment with the CFPB, and the request pertains to that employee, former employee, or applicant.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1070.53</SECTNO>
+        <SUBJECT>Request for access to records.</SUBJECT>
+        <P>(a) <E T="03">Procedures for making a request for access to records.</E> An individual's requests for access to records that pertain to that individual (or to the individual for whom the requester serves as guardian) may be submitted to the CFPB in writing or by electronic means.</P>
+        <P>(1) If submitted in writing, the request shall be labeled “Privacy Act Request” and shall be addressed to the Chief Privacy Officer, Consumer Financial Protection Bureau, 1700 G Street NW., Washington, DC 20552.</P>
+
+        <P>(2) If submitted by electronic means, the request shall be labeled “Privacy Act Request” and the request shall be submitted as set forth at the CFPB's Web site, <E T="03">http://www.consumerfinance.gov.</E>
+        </P>
+        <P>(b) <E T="03">Content of a request for access to records.</E> A request for access to records shall include:</P>
+        <P>(1) A statement that the request is made pursuant to the Privacy Act;</P>
+        <P>(2) The name of the system of records that the requester believes contains the record requested, or a description of the nature of the record sought in detail sufficient to enable CFPB personnel to locate the system of records containing the record with a reasonable amount of effort;</P>
+        <P>(3) Whenever possible, a description of the nature of the record sought, the date of the record or the period in which the requester believes that the record was created, and any other information that might assist the CFPB in identifying the record sought (e.g., maiden name, dates of employment, account information, etc.).</P>
+        <P>(4) Information necessary to verify the requester's identity pursuant to paragraph (c) of this section;</P>
+        <P>(5) The mailing or email address where the CFPB's response or further correspondence should be sent.</P>
+        <P>(c) <E T="03">Verification of identity.</E> To obtain access to the CFPB's records pertaining to a requester, the requester shall provide proof to the CFPB of the requester's identity as provided below.</P>
+        <P>(1) In general, the following will be considered adequate proof of a requester's identity:</P>
+        <P>(i) A photocopy of two forms of identification, including one form of identification that bears the requester's photograph, and one form of identification that bears the requester's signature;</P>
+        <P>(ii) A photocopy of a single form of identification that bears both the requester's photograph and signature; or</P>
+        <P>(iii) A statement swearing or affirming the requester's identity and to the fact that the requester understands the penalties provided in 5 U.S.C. 552a(i)(3).</P>
+        <P>(2) Notwithstanding paragraph (c)(1) of this section, a designated official may require additional proof of the requester's identity before action will be taken on any request, if such official determines that it is necessary to protect against unauthorized disclosure of information in a particular case. In addition, if a requester seeks records pertaining to an individual in the requester's capacity as that individual's guardian, the requester shall be required to provide adequate proof of the requester's legal relationship before action will be taken on any request.</P>
+        <P>(d) <E T="03">Request for accounting of previous disclosures.</E> An individual may request an accounting of previous disclosures <PRTPAGE P="1003"/>of records pertaining to that individual in a system of records as provided in 5 U.S.C. 552a(c). Such requests should conform to the procedures and form for requests for access to records set forth in paragraphs (a) and (b) of this section.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1070.54</SECTNO>
+        <SUBJECT>CFPB procedures for responding to a request for access.</SUBJECT>
+        <P>(a) <E T="03">Acknowledgment and response.</E> The CFPB will provide written acknowledgement of the receipt of a request within twenty (20) business days from the receipt of the request and will, where practicable, respond to each request within that twenty (20) day period. When a full response is not practicable within the twenty (20) day period, the CFPB will respond as promptly as possible.</P>
+        <P>(b) <E T="03">Disclosure.</E> (1) When the CFPB discloses information in response to a request, the CFPB will make the information available for inspection and copying during regular business hours as provided in § 1070.13 of this part, or the CFPB will mail it or email it the requester, if feasible, upon request.</P>
+        <P>(2) The requester may bring with him or her anyone whom the requester chooses to see the requested material. All visitors to the CFPB's buildings must comply with the applicable security procedures.</P>
+        <P>(c) <E T="03">Denial of a request.</E> If the CFPB denies a request made pursuant to § 1070.53 of this subpart, it will inform the requester in writing of the reason(s) for denial and the procedures for appealing the denial.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1070.55</SECTNO>
+        <SUBJECT>Special procedures for medical records.</SUBJECT>
+        <P>If an individual requests medical or psychological records pursuant to § 1070.53 of this subpart, the CFPB will disclose them directly to the requester unless the CFPB determines that such disclosure could have an adverse effect on the requester. If the CFPB makes that determination, the CFPB shall provide the information to a licensed physician or other appropriate representative that the requester designates, who shall disclose those records to the requester in a manner he or she deems appropriate.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1070.56</SECTNO>
+        <SUBJECT>Request for amendment of records.</SUBJECT>
+        <P>(a) <E T="03">Procedures for making request.</E> (1) If an individual wishes to amend a record that pertains to that individual in a system of records, that individual may submit a request in writing or by electronic means to the Chief Privacy Officer, as set forth in § 1070.53(a). The request shall be labeled “Privacy Act Amendment Request.”</P>
+        <P>(2) A request for amendment of a record must:</P>
+        <P>(i) Identify the system of records containing the record for which amendment is requested;</P>
+        <P>(ii) Specify the portion of that record requested to be amended; and</P>
+        <P>(iii) Describe the nature and reasons for each requested amendment.</P>
+        <P>(3) When making a request for amendment of a record, the CFPB will require a requester to verify his or her identity under the procedures set forth in § 1070.53(c) of this subpart, unless the requester has already done so in a related request for access or amendment.</P>
+        <P>(b) <E T="03">Burden of proof.</E> In a request for amendment of a record, the requester bears the burden of proving by a preponderance of the evidence that the record is not accurate, relevant, timely, or complete.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1070.57</SECTNO>
+        <SUBJECT>CFPB review of a request for amendment of records.</SUBJECT>
+        <P>(a) <E T="03">Time limits.</E> The CFPB will acknowledge a request for amendment of records within ten (10) business days after it receives the request. In the acknowledgment, the CFPB may request additional information necessary for a determination on the request for amendment. The CFPB will make a determination on a request to amend a record promptly.</P>
+        <P>(b) <E T="03">Contents of response to a request for amendment.</E> When the CFPB responds to a request for amendment, the CFPB will inform the requester in writing whether the request is granted or denied, in whole or in part. If the CFPB grants the request, it will take the necessary steps to amend the record and, when appropriate and possible, notify prior recipients of the record of its action. If the CFPB denies the request, in whole or in part, it will inform the requester in writing:<PRTPAGE P="1004"/>
+        </P>
+        <P>(1) Why the request (or portion of the request) was denied;</P>
+        <P>(2) That the requester has a right to appeal; and</P>
+        <P>(3) How to file an appeal.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1070.58</SECTNO>
+        <SUBJECT>Appeal of adverse determination of request for access or amendment.</SUBJECT>
+        <P>(a) <E T="03">Appeal.</E> A requester may appeal a denial of a request made pursuant to §§ 1070.53 or 1070.56 of this subpart within ten (10) business days after the CFPB notifies the requester that it has denied the request.</P>
+        <P>(b) <E T="03">Content of Appeal.</E> A requester may submit an appeal in writing or by electronic means as set forth in § 1070.53(a). The appeal shall be addressed to the General Counsel and labeled “Privacy Act Appeal.” The appeal must also:</P>
+        <P>(1) Specify the background of the request; and</P>
+        <P>(2) Provide reasons why the requester believes the denial is in error.</P>
+        <P>(c) <E T="03">Determination.</E> The General Counsel will make a determination as to whether to grant or deny an appeal within thirty (30) business days from the date it is received, unless the General Counsel extends the time for good cause.</P>
+        <P>(1) If the General Counsel grants an appeal regarding a request for amendment, he or she will take the necessary steps to amend the record and, when appropriate and possible, notify prior recipients of the record of its action.</P>
+        <P>(2) If the General Counsel denies an appeal, he or she will inform the requester of such determination in writing, including the reasons for the denial, and the requester's right to file a statement of disagreement and to have a court review its decision.</P>
+        <P>(d) <E T="03">Statement of disagreement.</E> (1) If the General Counsel denies an appeal regarding a request for amendment, a requester may file a concise statement of disagreement with the denial. The CFPB will maintain the requester's statement with the record that the requester sought to amend and any disclosure of the record will include a copy of the requester's statement of disagreement.</P>
+        <P>(2) When practicable and appropriate, the CFPB will provide a copy of the statement of disagreement to any prior recipients of the record.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1070.59</SECTNO>
+        <SUBJECT>Restrictions on disclosure.</SUBJECT>
+
+        <P>The CFPB will not disclose any record about an individual contained in a system of records to any person or agency without the prior written consent of that individual unless the disclosure is authorized by 5 U.S.C. 552a(b). Disclosures authorized by 5 U.S.C. 552a(b) include disclosures that are compatible with one or more routine uses that are contained within the CFPB's Systems of Records Notices, which are available on the CFPB's Web site, at <E T="03">http://www.consumerfinance.gov.</E>
+        </P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1070.60</SECTNO>
+        <SUBJECT>Exempt records.</SUBJECT>
+        <P>(a) <E T="03">Exempt systems of records.</E> Pursuant to 5 U.S.C. 552a(k)(2), the CFPB exempts the systems of records listed below from 5 U.S.C. 552a(c)(3), (d), (e)(1), (e)(4)(G)-(H), and (f), and §§ 1070.53 through 1070.59 of this subpart, to the extent that such systems of records contain investigatory materials compiled for law enforcement purposes, provided, however, that if any individual is denied any right, privilege, or benefit to which he or she would otherwise be entitled under Federal law, or for which he or she would otherwise be eligible as a result of the maintenance of such material, such material shall be disclosed to such individual, except to the extent that the disclosure of such material would reveal the identity of a source who furnished information to the CFPB under an express promise that the identity of the source would be held in confidence:</P>
+        <P>(1) CFPB.002 Depository Institution Supervision Database</P>
+        <P>(2) CFPB.003 Non-Depository Institution Supervision Database</P>
+        <P>(3) CFPB.004 Enforcement Database</P>
+        <P>(4) CFPB.005 Consumer Response System</P>
+        <P>(b) <E T="03">Information compiled for civil actions or proceedings.</E> This subpart does not permit an individual to have access to any information compiled in reasonable anticipation of a civil action or proceeding.</P>
+      </SECTION>
+      <SECTION>
+        <PRTPAGE P="1005"/>
+        <SECTNO>§ 1070.61</SECTNO>
+        <SUBJECT>Training; rules of conduct; penalties for non-compliance.</SUBJECT>
+        <P>(a) <E T="03">Training.</E> The Chief Privacy Officer shall institute a training program to instruct CFPB employees and employees of Government contractors covered by 5 U.S.C. 552a(m), who are involved in the design, development, operation, or maintenance of any CFPB system of records, on a continuing basis with respect to the duties and responsibilities imposed on them and the rights conferred on individuals by the Privacy Act, the regulations in this subpart, and any other related regulations. Such training shall provide suitable emphasis on the civil and criminal penalties imposed on the CFPB and the individual employees by the Privacy Act for non-compliance with specified requirements of the Act as implemented by the regulations in this subpart.</P>
+        <P>(b) <E T="03">Rules of conduct.</E> The following rules of conduct are applicable to employees of the CFPB (including, to the extent required by the contract or 5 U.S.C. 552a(m), Government contractors and employees of such contractors), who are involved in the design, development, operation or maintenance of any system of records, or in maintain any records, for or on behalf of the CFPB.</P>
+        <P>(1) The head of each office of the CFPB shall be responsible for assuring that employees subject to such official's supervision are advised of the provisions of the Privacy Act, including the criminal penalties and civil liabilities provided therein, and the regulations in this subpart, and that such employees are made aware of their individual and collective responsibilities to protect the security of personal information, to assure its accuracy, relevance, timeliness and completeness, to avoid unauthorized disclosure either orally or in writing, and to insure that no system of records is maintained without public notice.</P>
+        <P>(2) Employees of the CFPB involved in the design, development, operation, or maintenance of any system of records, or in maintaining any record shall:</P>
+        <P>(i) Collect no information of a personal nature from individuals unless authorized to collect it to achieve a function or carry out a responsibility of the CFPB;</P>
+        <P>(ii) Collect information, to the extent practicable, directly from the individual to whom it relates;</P>
+        <P>(iii) Inform each individual asked to supply information, on the form used to collect the information or on a separate form that can be retained by the individual of—</P>
+        <P>(A) The authority (whether granted by statute, or by executive order of the President) which authorizes the solicitation of the information and whether disclosure of such information is mandatory or voluntary;</P>
+        <P>(B) The principal purpose or purposes for which the information is intended to be used;</P>
+        <P>(C) The routine uses which may be made of the information, as published pursuant to 5 U.S.C. 552a(e)(4)(D); and</P>
+        <P>(D) The effects on the individual, if any, of not providing all or any part of the requested information.</P>
+        <P>(iv) Not collect, maintain, use or disseminate information concerning an individual's religious or political beliefs or activities or membership in associations or organizations, unless expressly authorized by statute or by the individual about whom the record is maintained or unless pertinent to and within the scope of an authorized law enforcement activity;</P>
+        <P>(v) Advise their supervisors of the existence or contemplated development of any record system which is capable of retrieving information about individuals by individual identifier;</P>
+        <P>(vi) Assure that no records maintained in a CFPB system of records are disseminated without the permission of the individual about whom the record pertains, except when authorized by 5 U.S.C. 552a(b);</P>
+        <P>(vii) Maintain and process information concerning individuals with care in order to insure that no inadvertent disclosure of the information is made either within or without the CFPB;</P>
+
+        <P>(viii) Prior to disseminating any record about an individual to any person other than an agency, unless the dissemination is made pursuant to 5 U.S.C. 552a(b)(2) of this section, make reasonable efforts to assure that such records are accurate, complete, timely, and relevant for agency purposes; and<PRTPAGE P="1006"/>
+        </P>
+        <P>(ix) Assure that an accounting is kept in the prescribed form, of all dissemination of personal information outside the CFPB, whether made orally or in writing, unless disclosed under 5 U.S.C. 552 or subpart B of this part.</P>
+        <P>(3) The head of each office of the CFPB shall, at least annually, review the record systems subject to their supervision to insure compliance with the provisions of the Privacy Act of 1974 and the regulations in this subpart.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1070.62</SECTNO>
+        <SUBJECT>Preservation of records.</SUBJECT>
+        <P>The CFPB will preserve all correspondence pertaining to the requests that it receives under this part, as well as copies of all requested records, until disposition or destruction is authorized by title 44 of the United States Code or the National Archives and Records Administration's General Records Schedule 14. Records will not be disposed of or destroyed while they are the subject of a pending request, appeal, proceeding, or lawsuit.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1070.63</SECTNO>
+        <SUBJECT>Use and collection of social security numbers.</SUBJECT>
+        <P>The CFPB will ensure that employees authorized to collect information are aware:</P>
+        <P>(a) That individuals may not be denied any right, benefit, or privilege as a result of refusing to provide their social security numbers, unless the collection is authorized either by a statute or by a regulation issued prior to 1975; and</P>
+        <P>(b) That individuals requested to provide their social security numbers must be informed of:</P>
+        <P>(1) Whether providing social security numbers is mandatory or voluntary;</P>
+        <P>(2) Any statutory or regulatory authority that authorizes the collection of social security numbers; and</P>
+        <P>(3) The uses that will be made of the numbers.</P>
+      </SECTION>
+    </SUBPART>
+  </PART>
+</CFRGRANULE>

@@ -1,0 +1,269 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="cfr.xsl"?>
+<CFRGRANULE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="CFRMergedXML.xsd">
+  <FDSYS>
+    <CFRTITLE>12</CFRTITLE>
+    <CFRTITLETEXT>Banks and Banking</CFRTITLETEXT>
+    <VOL>9</VOL>
+    <DATE>2017-01-01</DATE>
+    <ORIGINALDATE>2017-01-01</ORIGINALDATE>
+    <COVERONLY>false</COVERONLY>
+    <TITLE>DEFINING LARGER PARTICIPANTS OF CERTAIN CONSUMER FINANCIAL PRODUCT AND SERVICE MARKETS</TITLE>
+    <GRANULENUM>1090</GRANULENUM>
+    <HEADING>PART 1090</HEADING>
+    <ANCESTORS>
+      <PARENT HEADING="Title 12" SEQ="1">Banks and Banking</PARENT>
+      <PARENT HEADING="CHAPTER X" SEQ="0">BUREAU OF CONSUMER FINANCIAL PROTECTION (CONTINUED)</PARENT>
+    </ANCESTORS>
+  </FDSYS>
+  <PART>
+    <EAR>Pt. 1090</EAR>
+    <HD SOURCE="HED">PART 1090—DEFINING LARGER PARTICIPANTS OF CERTAIN CONSUMER FINANCIAL PRODUCT AND SERVICE MARKETS</HD>
+    <CONTENTS>
+      <SUBPART>
+        <HD SOURCE="HED">Subpart A—General</HD>
+        <SECHD>Sec.</SECHD>
+        <SECTNO>1090.100</SECTNO>
+        <SUBJECT>Scope and purpose.</SUBJECT>
+        <SECTNO>1090.101</SECTNO>
+        <SUBJECT>Definitions.</SUBJECT>
+        <SECTNO>1090.102</SECTNO>
+        <SUBJECT>Status as larger participant subject to supervision.</SUBJECT>
+        <SECTNO>1090.103</SECTNO>
+        <SUBJECT>Assessing status as a larger participant.</SUBJECT>
+      </SUBPART>
+      <SUBPART>
+        <HD SOURCE="HED">Subpart B—Markets</HD>
+        <SECTNO>1090.104</SECTNO>
+        <SUBJECT>Consumer Reporting Market.</SUBJECT>
+        <SECTNO>1090.105</SECTNO>
+        <SUBJECT>Consumer debt collection market.</SUBJECT>
+        <SECTNO>1090.106</SECTNO>
+        <SUBJECT>Student loan servicing market.</SUBJECT>
+        <SECTNO>1090.107</SECTNO>
+        <SUBJECT>International Money Transfer Market.</SUBJECT>
+        <SECTNO>1090.108</SECTNO>
+        <SUBJECT>Automobile financing market.</SUBJECT>
+      </SUBPART>
+    </CONTENTS>
+    <AUTH>
+      <HD SOURCE="HED">Authority:</HD>
+      <P>12 U.S.C. 5514(a)(1)(B); 12 U.S.C. 5514(a)(2); 12 U.S.C. 5514(b)(7)(A); and 12 U.S.C. 5512(b)(1).</P>
+    </AUTH>
+    <SOURCE>
+      <HD SOURCE="HED">Source:</HD>
+      <P>77 FR 42898, July 20, 2012, unless otherwise noted.</P>
+    </SOURCE>
+    <SUBPART>
+      <HD SOURCE="HED">Subpart A—General</HD>
+      <SECTION>
+        <SECTNO>§ 1090.100</SECTNO>
+        <SUBJECT>Scope and purpose.</SUBJECT>
+        <P>This part defines those nonbank covered persons that qualify as larger participants of certain markets for consumer financial products or services pursuant to 12 U.S.C. 5514(a)(1)(B) and (a)(2). A larger participant of a market covered by this part is subject to the supervisory authority of the Bureau under 12 U.S.C. 5514. This part also establishes rules to facilitate the Bureau's supervision of such larger participants pursuant to 12 U.S.C. 5514(b)(7).</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1090.101</SECTNO>
+        <SUBJECT>Definitions.</SUBJECT>
+        <P>For the purposes of this part, the following definitions apply:</P>
+        <P>
+          <E T="03">Affiliated company</E> means any company (other than an insured depository institution or insured credit union) that controls, is controlled by, or is under common control with, a person.</P>
+        <P>(1) For purposes of this definition “company” means any corporation, limited liability company, business trust, general or limited partnership, proprietorship, cooperative, association, or similar organization.</P>
+        <P>(2) A person has control over another person if:</P>
+        <P>(i) The person directly or indirectly or acting through one or more other persons owns, controls, or has power to vote 25 percent or more of any class of voting securities or similar ownership interest of the other person;</P>
+        <P>(ii) The person controls in any manner the election of a majority of the directors, trustees, members, or general partners of the other person; or</P>
+        <P>(iii) The person directly or indirectly exercises a controlling influence over the management or policies of the other person.</P>
+        <P>
+          <E T="03">Assistant Director</E> means the Bureau's Assistant Director for Nonbank Supervision or her or his designee. The Director of the Bureau may perform the functions of the Assistant Director under this part. In the event there is no such Assistant Director, the Director of the Bureau may designate an alternative Bureau employee to fulfill the duties of the Assistant Director under this part.</P>
+        <P>
+          <E T="03">Bureau</E> means the Bureau of Consumer Financial Protection.</P>
+        <P>
+          <E T="03">Completed fiscal year</E> means a tax year including any fiscal year, calendar year, or short tax year. “Fiscal year,” “calendar year,” “tax year,” and <PRTPAGE P="1078"/>“short tax year” have the meanings attributed to them by the IRS as set forth in IRS Publication 538, which provides that:</P>
+        <P>(1) A “fiscal year” is 12 consecutive months ending on the last day of any month except December 31.</P>
+        <P>(2) A “calendar year” is 12 consecutive months ending on December 31.</P>
+        <P>(3) A “tax year” is an annual accounting period for keeping records and reporting income and expenses, or, if appropriate, a short tax year. An annual accounting period does not include a short tax year.</P>
+        <P>(4) A “short tax year” is a tax year of less than 12 months.</P>
+        <P>
+          <E T="03">Consumer</E> means an individual or an agent, trustee, or representative acting on behalf of an individual.</P>
+        <P>
+          <E T="03">Consumer financial product or service</E> means any financial product or service, as defined in 12 U.S.C. 5481(15), that is described in one or more categories under:</P>
+        <P>(1) 12 U.S.C. 5481(15)(A) and is offered or provided for use by consumers primarily for personal, family, or household purposes; or</P>
+        <P>(2) Clause (i), (iii), (ix), or (x) of 12 U.S.C. 5481(15)(A) and is delivered, offered, or provided in connection with a consumer financial product or service referred to in paragraph (1) of this definition.</P>
+        <P>
+          <E T="03">Dodd-Frank Act</E> means the Dodd-Frank Wall Street Reform and Consumer Protection Act.</P>
+        <P>
+          <E T="03">Larger participant</E> means a nonbank covered person that has met a test under subpart B of this part within the period provided in § 1090.102 of this part.</P>
+        <P>
+          <E T="03">Nonbank covered person</E> means, except for persons described in 12 U.S.C. 5515(a) and 5516(a):</P>
+        <P>(1) Any person that engages in offering or providing a consumer financial product or service; and</P>
+        <P>(2) Any affiliate of a person that engages in offering or providing a consumer financial product or service if such affiliate acts as a service provider to such person.</P>
+        <P>
+          <E T="03">Person</E> means an individual, partnership, company, corporation, association (incorporated or unincorporated), trust, estate, cooperative organization, or other entity.</P>
+        <P>
+          <E T="03">Supervision and supervisory activity</E> mean the Bureau's exercise, or intended exercise, of supervisory authority, including by initiating or undertaking an examination, or requiring a report of a person, pursuant to 12 U.S.C. 5514.</P>
+        <CITA>[77 FR 42898, July 20, 2012, as amended at 80 FR 37526, June 30, 2015]</CITA>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1090.102</SECTNO>
+        <SUBJECT>Status as larger participant subject to supervision.</SUBJECT>
+        <P>A person qualifying as a larger participant under subpart B of this part shall not cease to be a larger participant under this part until two years from the first day of the tax year in which the person last met the applicable test under subpart B.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1090.103</SECTNO>
+        <SUBJECT>Assessing status as a larger participant.</SUBJECT>
+        <P>(a) If a person receives a written communication from the Bureau initiating a supervisory activity pursuant to 12 U.S.C. 5514, such person may respond by asserting that the person does not meet the definition of a larger participant of a market covered by this part within 45 days of the date of the communication. Such response must be sent to the Assistant Director by electronic transmission at the address included in the communication and must include an affidavit setting forth an explanation of the basis for the person's assertion that it does not meet the definition of larger participant of a market covered by this part and therefore is not subject to the Bureau's supervisory authority under 12 U.S.C. 5514. In addition, a person may include with the response copies of any records, documents, or other information on which the person relied in making the assertion.</P>
+
+        <P>(b) A person shall be deemed to have waived the opportunity, at any time that it may dispute that it qualifies as a larger participant, to rely on any argument, records, documents, or other information that it fails to submit to the Assistant Director under paragraph (a) of this section. A person who fails to respond to the Bureau's written communication within 45 days will be deemed to have acknowledged that it is a larger participant.<PRTPAGE P="1079"/>
+        </P>
+        <P>(c) The Assistant Director shall review the affidavit, any attached records, documents, or other information submitted pursuant to paragraph (a) of this section, and any other information the Assistant Director deems relevant, and thereafter send by electronic transmission to the person a statement explaining whether the person meets the definition for a larger participant of a market covered by this part.</P>
+        <P>(d) At any time, including prior to issuing the written communication referred to in paragraph (a) of this section, the Assistant Director may require that a person provide to the Bureau such records, documents, and information as the Assistant Director may deem appropriate to assess whether a person qualifies as a larger participant. Persons must provide the requisite records, documents, and other information to the Bureau within the time period specified in the request.</P>
+        <P>(e) The Assistant Director, in her or his discretion, may modify any timeframe prescribed by this section on her or his own initiative or for good cause shown.</P>
+      </SECTION>
+    </SUBPART>
+    <SUBPART>
+      <HD SOURCE="HED">Subpart B—Markets</HD>
+      <SECTION>
+        <SECTNO>§ 1090.104</SECTNO>
+        <SUBJECT>Consumer Reporting Market.</SUBJECT>
+        <P>(a) <E T="03">Market-Related definitions.</E>
+        </P>
+        <P>
+          <E T="03">Annual receipts</E> means receipts calculated as follows:</P>
+        <P>(i) <E T="03">Receipts</E> means “total income” (or in the case of a sole proprietorship, “gross income”) plus “cost of goods sold” as these terms are defined and reported on Internal Revenue Service (IRS) tax return forms (such as Form 1120 for corporations; Form 1120S and Schedule K for S corporations; Form 1120, Form 1065 or Form 1040 for LLCs; Form 1065 and Schedule K for partnerships; Form 1040, Schedule C for sole proprietorships). Receipts do not include net capital gains or losses; taxes collected for and remitted to a taxing authority if included in gross or total income, such as sales or other taxes collected from customers and excluding taxes levied on the entity or its employees; and amounts collected for another (but fees earned in connection with such collections are receipts). Items such as subcontractor costs, reimbursements for purchases a contractor makes at a customer's request, and employee-based costs such as payroll taxes are included in receipts.</P>
+        <P>(ii) <E T="03">Period of measurement.</E> (A) Annual receipts of a person that has been in business for three or more completed fiscal years means the total receipts of the person over its three most recently completed fiscal years divided by three.</P>
+        <P>(B) Annual receipts of a person that has been in business for less than three completed fiscal years means the total receipts of the person for the period the person has been in business divided by the number of weeks in business, multiplied by 52.</P>
+        <P>(C) Where a person has been in business for three or more completed fiscal years, but one of the years within its period of measurement is a short tax year, annual receipts means the total receipts for the short year and the two full fiscal or calendar years divided by the total number of weeks in the short year and the two full fiscal or calendar years, multiplied by 52.</P>
+        <P>(iii) <E T="03">Annual receipts of affiliated companies.</E> (A) The annual receipts of a person are calculated by adding the annual receipts of the person with the annual receipts of each of its affiliated companies.</P>
+        <P>(B) If a person has acquired an affiliated company or been acquired by an affiliated company during the applicable period of measurement, the annual receipts of the person and the affiliated company are aggregated for the entire period of measurement (not just the period after the affiliation arose).</P>
+
+        <P>(C) Receipts are calculated separately for the person and each of its affiliated companies in accordance with paragraph (ii) of this definition even though this may result in using a different period of measurement to calculate an affiliated company's annual receipts. Thus, for example, if an affiliated company has been in business for a period of less than three years, the affiliated company's receipts are to be annualized in accordance with paragraph (ii)(B) of this definition even if the person has been in business for three or more completed fiscal years.<PRTPAGE P="1080"/>
+        </P>
+        <P>(D) The annual receipts of a formerly affiliated company are not included in the annual receipts of a nonbank covered person for purposes of this section, if the affiliation ceased before the applicable period of measurement as set forth in paragraph (ii) of this definition. The annual receipts of a nonbank covered person and its formerly affiliated company are aggregated for the entire period of measurement if the affiliation ceased during the applicable period of measurement as set forth in paragraph (ii) of this definition.</P>
+        <P>
+          <E T="03">Consumer reporting</E> means:</P>
+        <P>(i) <E T="03">In general.</E> Consumer reporting means collecting, analyzing, maintaining, or providing consumer report information or other account information used or expected to be used in any decision by another person regarding the offering or provision of any consumer financial product or service.</P>
+        <P>(ii) <E T="03">Exclusion for transaction and experience information.</E> Consumer reporting does not include the activities of a person to the extent that a person collects, analyzes, maintains, or provides information that relates solely to the person's transactions or experiences with consumers.</P>
+        <P>(iii) <E T="03">Exclusion for furnishing affiliate information to a consumer reporting entity.</E> Consumer reporting does not include the activities of a person to the extent that a person provides information that solely relates to transactions or experiences between a consumer and an affiliate of such person to another person that is engaged in consumer reporting.</P>
+        <P>(iv) <E T="03">Exclusion for certain authorizations or approvals.</E> Consumer reporting does not include any authorization or approval of a specific extension of credit directly or indirectly by the issuer of a credit card or similar device.</P>
+        <P>(v) <E T="03">Exclusion for providing information to be used solely in a decision regarding employment, government licensing, or residential leasing or tenancy.</E> Consumer reporting does not include the activities of a person to the extent that a person provides consumer report or other account information that is used or expected to be used solely regarding a decision for employment, government licensing, or a residential lease or tenancy involving a consumer, or to be used solely in any decision regarding the offering or provision of a product or service that is not a consumer financial product or service.</P>
+        <P>(b) <E T="03">Test to define larger participants.</E> A nonbank covered person that offers or provides consumer reporting is a larger participant of the consumer reporting market if the person's annual receipts resulting from consumer reporting are more than $7 million.</P>
+        <CITA>[77 FR 42898, July 20, 2012, as amended at 80 FR 37526, June 30, 2015]</CITA>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1090.105</SECTNO>
+        <SUBJECT>Consumer debt collection market.</SUBJECT>
+        <P>(a) <E T="03">Market-Related definitions.</E> As used in this subpart:</P>
+        <P>
+          <E T="03">Annual receipts</E> means, for the consumer debt collection market, receipts calculated as follows:</P>
+        <P>(i) <E T="03">Receipts</E> means “total income” (or in the case of a sole proprietorship, “gross income”) plus “cost of goods sold” as these terms are defined and reported on Internal Revenue Service (IRS) tax return forms (such as Form 1120 for corporations; Form 1120S and Schedule K for S corporations; Form 1120, Form 1065 or Form 1040 for LLCs; Form 1065 and Schedule K for partnerships; and Form 1040, Schedule C for sole proprietorships). Receipts do not include net capital gains or losses; taxes collected for and remitted to a taxing authority if included in gross or total income, such as sales or other taxes collected from customers but excluding taxes levied on the entity or its employees; or amounts collected for another (but fees earned in connection with such collections are receipts). Items such as subcontractor costs, reimbursements for purchases a contractor makes at a customer's request, and employee-based costs such as payroll taxes are included in receipts.</P>
+        <P>(ii) <E T="03">Period of measurement.</E> (A) Annual receipts of a person that has been in business for three or more completed fiscal years means the total receipts of the person over its three most recently completed fiscal years divided by three.</P>
+
+        <P>(B) Annual receipts of a person that has been in business for less than three completed fiscal years means the total receipts of the person for the period the person has been in business divided by <PRTPAGE P="1081"/>the number of weeks in business, multiplied by 52.</P>
+        <P>(C) Where a person has been in business for three or more completed fiscal years, but one of the years within its period of measurement is a short tax year, annual receipts means the total receipts for the short year and the two full fiscal or calendar years divided by the total number of weeks in the short year and the two full fiscal or calendar years, multiplied by 52.</P>
+        <P>(iii) <E T="03">Annual receipts of affiliated companies.</E> (A) The annual receipts of a person are calculated by adding the annual receipts of the person with the annual receipts of each of its affiliated companies.</P>
+        <P>(B) If a person has acquired an affiliated company or been acquired by an affiliated company during the applicable period of measurement, the annual receipts of the person and the affiliated company are aggregated for the entire period of measurement (not just the period after the affiliation arose).</P>
+        <P>(C) Receipts are calculated separately for the person and each of its affiliated companies in accordance with paragraph (ii) of this definition even though this may result in using a different period of measurement to calculate an affiliated company's annual receipts. Thus, for example, if an affiliated company has been in business for a period of less than three years, the affiliated company's receipts are to be annualized in accordance with paragraph (ii) of this definition even if the person has been in business for three or more completed fiscal years.</P>
+        <P>(D) The annual receipts of a formerly affiliated company are not included in the annual receipts of a nonbank covered person for purposes of this section if the affiliation ceased before the applicable period of measurement as set forth in paragraph (ii) of this definition. The annual receipts of a nonbank covered person and its formerly affiliated company are aggregated for the entire period of measurement if the affiliation ceased during the applicable period of measurement as set forth in paragraph (ii) of this definition.</P>
+        <P>(E) Annual receipts do not include receipts that result from the collection of debt that was originally owed to a medical provider.</P>
+        <P>
+          <E T="03">Consumer debt collection</E> is a debt collector's collection of debt incurred by a consumer primarily for personal, family, or household purposes and related to a consumer financial product or service.</P>
+        <P>
+          <E T="03">Creditor</E> means any person who offers or extends credit creating a debt or to whom a debt is owed, but such term does not include any person to the extent that the person receives an assignment or transfer of a debt in default solely for the purpose of facilitating the collection of debt for another.</P>
+        <P>
+          <E T="03">Debt collector</E> means any person who uses any instrumentality of interstate commerce or the mails in any business the principal purpose of which is the collection of any debts, or who regularly collects or attempts to collect, directly or indirectly, debts owed or due or asserted to be owed or due to another. Notwithstanding the exclusion provided by paragraph (iii) of this definition, the term includes any creditor who, in the process of collecting his own debts, uses any name other than his own which would indicate that a third person is collecting or attempting to collect such debts. The term does not include:</P>
+        <P>(i) Any person while acting as a debt collector for another person, both of whom are related by common ownership or affiliated by corporate control, if the person acting as a debt collector does so only for persons to whom it is so related or affiliated and if the principal business of such person is not the collection of debts;</P>
+        <P>(ii) Any nonprofit organization which, at the request of consumers, performs bona fide consumer credit counseling and assists consumers in the liquidation of their debts by receiving payments from such consumers and distributing such amounts to creditors;</P>
+        <P>(iii) Any person collecting or attempting to collect any debt owed or due or asserted to be owed or due another to the extent such activity:</P>
+        <P>(A) Concerns a debt which was originated by such person; or</P>
+        <P>(B) Concerns a debt which was not in default at the time it was obtained by such person; and</P>
+
+        <P>(iv) Any person engaged solely in enforcing a security interest.<PRTPAGE P="1082"/>
+        </P>
+        <P>(b) <E T="03">Test to define larger participants.</E> A nonbank covered person is a larger participant of the consumer debt collection market if the nonbank covered person's annual receipts resulting from consumer debt collection are more than $10 million.</P>
+        <CITA>[77 FR 65798, Oct. 31, 2012, as amended at 77 FR 72913, Dec. 7, 2012; 80 FR 37526, June 30, 2015]</CITA>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1090.106</SECTNO>
+        <SUBJECT>Student loan servicing market.</SUBJECT>
+        <P>(a) <E T="03">Market-related definitions.</E> As used in this subpart:</P>
+        <P>
+          <E T="03">Account volume</E> means the number of accounts with respect to which a nonbank covered person is considered to perform student loan servicing, calculated as follows:</P>
+        <P>(i) <E T="03">Number of accounts.</E> A nonbank covered person has at least one account for each student or prior student with respect to whom the nonbank covered person performs student loan servicing. If a nonbank covered person is receiving separate fees for performing student loan servicing with respect to a given student or prior student, the nonbank covered person has one account for each stream of fees to which the person is entitled.</P>
+        <P>(ii) <E T="03">Time of measurement.</E> The number of accounts is counted as of December 31 of the prior calendar year.</P>
+        <P>(iii) <E T="03">Affiliated companies.</E> (A) The account volume of a nonbank covered person is the sum of the number of accounts of that nonbank covered person and of any affiliated companies of that person.</P>
+        <P>(B) If two persons become affiliated companies, each person's number of accounts as of the prior calendar year's December 31 is included in the total account volume.</P>
+        <P>(C) If two affiliated companies cease to be affiliated companies, the number of accounts of each continues to be included in the other's account volume until the succeeding December 31.</P>
+        <P>
+          <E T="03">Post-secondary education expenses</E> means any of the expenses that are included as part of the cost of attendance of a student as defined in 20 U.S.C. 1087<E T="03">ll.</E>
+        </P>
+        <P>
+          <E T="03">Post-secondary education loan</E> means a loan that is made, insured or guaranteed under Title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 <E T="03">et seq.</E>) or that is extended to a consumer with the expectation that the funds extended will be used in whole or in part to pay post-secondary education expenses. A loan that is extended in order to refinance or consolidate a consumer's existing post-secondary education loans is also a post-secondary education loan. However, no loan under an open-end credit plan (as defined in Regulation Z, 12 CFR 1026.2(a)(20)) or loan that is secured by real property is a post-secondary education loan, regardless of the purpose for the loan.</P>
+        <P>
+          <E T="03">Student loan servicing</E> means:</P>
+        <P>(i)(A) Receiving any scheduled periodic payments from a borrower or notification of such payments and</P>
+        <P>(B) Applying payments to the borrower's account pursuant to the terms of the post-secondary education loan or of the contract governing the servicing;</P>
+        <P>(ii) During a period when no payment is required on a post-secondary education loan,</P>
+        <P>(A) Maintaining account records for the loan and</P>
+        <P>(B) Communicating with the borrower regarding the loan, on behalf of the loan's holder; or</P>
+        <P>(iii) Interactions with a borrower, including activities to help prevent default on obligations arising from post-secondary education loans, conducted to facilitate the activities described in paragraph (i) or (ii) of this definition.</P>
+        <P>(b) <E T="03">Test to define larger participants.</E> A nonbank covered person that offers or provides student loan servicing is a larger participant of the student loan servicing market if the nonbank covered person's account volume exceeds one million.</P>
+        <CITA>[78 FR 73406, Dec. 6, 2013]</CITA>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1090.107</SECTNO>
+        <SUBJECT>International Money Transfer Market.</SUBJECT>
+        <P>(a) <E T="03">Market-related definitions.</E> As used in this subpart:</P>
+        <P>
+          <E T="03">Aggregate annual international money transfers</E> means the sum of the annual international money transfers of a nonbank covered person and the annual international money transfers of each of the nonbank covered person's affiliated companies.<PRTPAGE P="1083"/>
+        </P>
+        <P>(i) <E T="03">Annual international money transfers.</E> Annual international money transfers of a nonbank covered person means the international money transfers provided by the nonbank covered person during the preceding calendar year.</P>
+        <P>(ii) <E T="03">Agents.</E> (A) Annual international money transfers of a nonbank covered person include international money transfers in which another person acts as an agent on behalf of the nonbank covered person.</P>
+        <P>(B) Annual international money transfers of a nonbank covered person do not include international money transfers in which another person provided the international money transfers and the nonbank covered person performed activities as an agent on behalf of that other person.</P>
+        <P>(C) For purposes of this paragraph (ii), agent means an agent or authorized delegate, as defined under State or other applicable law, or affiliated company of a person that provides international money transfers when such agent, authorized delegate, or affiliated company acts for that person.</P>
+        <P>(iii) <E T="03">Aggregating the annual international money transfers of affiliated companies.</E> (A) The annual international money transfers of each affiliated company of a nonbank covered person are calculated separately in accordance with paragraphs (i) and (ii) of this definition, treating the affiliated company as if it were an independent nonbank covered person for purposes of the calculation.</P>
+        <P>(B) The annual international money transfers of a nonbank covered person must be aggregated with the annual international money transfers of any person that was an affiliated company of the nonbank covered person at any time during the preceding calendar year. The annual international money transfers of the nonbank covered person and its affiliated companies are aggregated for the entire preceding calendar year, even if the affiliation did not exist for the entire calendar year.</P>
+        <P>
+          <E T="03">Designated recipient</E> means any person specified by the sender as the authorized recipient of an international money transfer to be received at a location in a foreign country.</P>
+        <P>
+          <E T="03">International money transfer</E> means the electronic transfer of funds requested by a sender to a designated recipient that is sent by an international money transfer provider. The term applies regardless of whether the sender holds an account with the international money transfer provider, and regardless of whether the transaction is also an electronic fund transfer, as defined in § 1005.3(b) of this chapter. The term does not include any transfer that is excluded from the definition of “electronic fund transfer” under § 1005.3(c)(4) of this chapter.</P>
+        <P>
+          <E T="03">International money transfer provider</E> means any nonbank covered person that provides international money transfers for a consumer, regardless of whether the consumer holds an account with such person.</P>
+        <P>
+          <E T="03">Sender</E> means a consumer in a State who primarily for personal, family, or household purposes requests an international money transfer provider to send an international money transfer to a designated recipient.</P>
+        <P>
+          <E T="03">State</E> means any State, territory, or possession of the United States; the District of Columbia; the Commonwealth of Puerto Rico; or any political subdivision thereof.</P>
+        <P>(b) <E T="03">Test to define larger participants.</E> A nonbank covered person is a larger participant of the international money transfer market if the nonbank covered person has at least one million aggregate annual international money transfers.</P>
+        <CITA>[79 FR 56650, Sept. 23, 2014]</CITA>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1090.108</SECTNO>
+        <SUBJECT>Automobile financing market.</SUBJECT>
+        <P>(a) <E T="03">Market-related definitions.</E> As used in this section:</P>
+        <P>
+          <E T="03">Aggregate annual originations</E> means the sum of the number of annual originations of a nonbank covered person and the number of annual originations of each of the nonbank covered person's affiliated companies, calculated as follows:</P>
+        <P>(i) <E T="03">Annual Originations.</E> (A) Annual originations means the sum of the following transactions for the preceding calendar year:</P>
+        <P>(<E T="03">1</E>) Credit granted for the purpose of purchasing an automobile;</P>
+        <P>(<E T="03">2</E>) Automobile leases;<PRTPAGE P="1084"/>
+        </P>
+        <P>(<E T="03">3</E>) Refinancings of obligations described in (i)(A)(<E T="03">1</E>) of this definition that are secured by an automobile, and any subsequent refinancings thereof that are secured by an automobile; and</P>
+        <P>(<E T="03">4</E>) Purchases or acquisitions of obligations described in (i)(A)(<E T="03">1</E>), (<E T="03">2</E>), or (<E T="03">3</E>) of this definition.</P>
+        <P>(B) The term annual originations does not include:</P>
+        <P>(<E T="03">1</E>) Investments in asset-backed securities; and</P>
+        <P>(<E T="03">2</E>) Purchases or acquisitions of obligations by a special purpose entity established for the purpose of facilitating asset-backed securities transactions if the purchases or acquisitions are made for the purpose of facilitating an asset-backed securities transaction.</P>
+        <P>(ii) <E T="03">Aggregating the annual originations of affiliated companies.</E> The annual originations of a nonbank covered person must be aggregated with the annual originations of any person (other than an entity described in paragraph (c) of this section) that was an affiliated company of the nonbank covered person at any time during the preceding calendar year. The annual originations of a nonbank covered person and its affiliated companies are aggregated for the entire preceding calendar year, even if the affiliation did not exist for the entire calendar year.</P>
+        <P>
+          <E T="03">Automobile</E> means any self-propelled vehicle primarily used for personal, family, or household purposes for on-road transportation. The term does not include motor homes, recreational vehicles (RVs), golf carts, and motor scooters.</P>
+        <P>
+          <E T="03">Automobile financing</E> means providing or engaging in the transactions identified under the term “Annual originations” as defined in this section.</P>
+        <P>
+          <E T="03">Automobile lease</E> means a lease that is for the use of an automobile, as defined in this section, and that meets the requirements of 12 U.S.C. 5481(15)(A)(ii) or 12 CFR 1001.2(a).</P>
+        <P>
+          <E T="03">Refinancing</E> has the same meaning as in 12 CFR 1026.20(a), except that the nonbank covered person need not be the original creditor or a holder or servicer of the original obligation.</P>
+        <P>(b) <E T="03">Test to define larger participants.</E> Except as provided in paragraph (c) of this section, a nonbank covered person that engages in automobile financing is a larger participant of the automobile financing market if the person has at least 10,000 aggregate annual originations.</P>
+        <P>(c) <E T="03">Exclusion for dealers.</E> The following entities do not qualify as larger participants under this section:</P>
+        <P>(1) Persons excluded from the Bureau's authority by 12 U.S.C. 5519; and</P>
+        <P>(2) Persons who meet the definition in 12 U.S.C. 5519(f)(2); are identified in 12 U.S.C. 5519(b)(2); and are predominantly engaged in the sale and servicing of motor vehicles (as that term is defined in 12 U.S.C. 5519(f)(1)), the leasing and servicing of motor vehicles, or both.</P>
+        <CITA>[80 FR 37526, June 30, 2015]</CITA>
+      </SECTION>
+    </SUBPART>
+  </PART>
+</CFRGRANULE>
